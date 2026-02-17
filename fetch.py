@@ -1,46 +1,65 @@
+import os
 import requests
 import json
+import time
 
-STEAM_ID = "76561199497975097"
-URL = f"https://store.steampowered.com/wishlist/profiles/{STEAM_ID}/wishlistdata/?l=japanese"
+API_KEY = os.environ["STEAM_API_KEY"]
+STEAM_ID = "76561199497975097"  # ←自分のID64
 
-headers = {
-    "Accept": "application/json, text/javascript, */*; q=0.01",
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-    "Referer": "https://store.steampowered.com/",
+# ① Wishlist取得
+wishlist_url = "https://api.steampowered.com/IWishlistService/GetWishlist/v1/"
+params = {
+    "key": API_KEY,
+    "steamid": STEAM_ID
 }
 
-try:
-    r = requests.get(URL, headers=headers, timeout=10)
-    print("Status Code:", r.status_code)
-    print("Content-Type:", r.headers.get("Content-Type"))
-    print("First 300 chars of response:")
-    print(r.text[:300])
+r = requests.get(wishlist_url, params=params)
+data = r.json()
 
-    if "application/json" not in r.headers.get("Content-Type", ""):
-        print("Response is not JSON. Aborting.")
-        exit(0)
+if "response" not in data:
+    print("Wishlist取得失敗")
+    exit(1)
 
-    data = r.json()
-
-except Exception as e:
-    print("Request failed:", e)
-    exit(0)
+appids = [item["appid"] for item in data["response"]["items"]]
 
 result = []
 
-for appid, info in data.items():
-    if info.get("discount_pct", 0) > 0:
-        discounted_price = info.get("discounted_price")
-        if discounted_price and discounted_price <= 100000:
-            result.append({
-                "appid": appid,
-                "name": info.get("name"),
-                "discount_pct": info.get("discount_pct"),
-                "discounted_price": discounted_price / 100
-            })
+# ② 各ゲームの価格取得
+for appid in appids:
+    detail_url = f"https://store.steampowered.com/api/appdetails"
+    detail_params = {
+        "appids": appid,
+        "cc": "jp"
+    }
 
+    res = requests.get(detail_url, params=detail_params)
+    detail = res.json()
+
+    if not detail[str(appid)]["success"]:
+        continue
+
+    app_data = detail[str(appid)]["data"]
+
+    if "price_overview" not in app_data:
+        continue
+
+    price = app_data["price_overview"]
+
+    discount = price["discount_percent"]
+    final_price = price["final"] / 100  # 円に変換
+
+    if discount > 0 and final_price <= 1000:
+        result.append({
+            "appid": appid,
+            "name": app_data["name"],
+            "final_price": final_price,
+            "discount_percent": discount
+        })
+
+    time.sleep(1)  # レート制限回避
+
+# ③ JSON保存
 with open("wishlist_sale_under_1000.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-print("JSON generated successfully.")
+print("完了:", len(result), "件ヒット")
