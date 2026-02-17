@@ -1,1 +1,1 @@
-# Steam-Whishlist-Tracker
+# Steam-Wishlist-Tracker
