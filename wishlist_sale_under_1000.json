@@ -6,12 +6,6 @@
     "discount_percent": 40
   },
   {
-    "appid": 2352050,
-    "name": "SECTOR ZERO",
-    "final_price": 423.0,
-    "discount_percent": 10
-  },
-  {
     "appid": 2060160,
     "name": "農家は Replace() されました",
     "final_price": 960.0,
@@ -22,6 +16,12 @@
     "name": "Ultimate Chicken Horse",
     "final_price": 640.0,
     "discount_percent": 60
+  },
+  {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "final_price": 490.0,
+    "discount_percent": 50
   },
   {
     "appid": 1943950,
