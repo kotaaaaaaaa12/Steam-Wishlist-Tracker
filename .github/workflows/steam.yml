@@ -1,13 +1,19 @@
-name: Steam Wishlist Tracker
+name: Build Wishlist JSON
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # 6時間ごと
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+
+    env:
+      STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
 
     steps:
       - name: Checkout
@@ -22,11 +28,7 @@ jobs:
         run: pip install requests
 
       - name: Run fetch script
-        run: |
-          python fetch.py || echo "fetch.py failed but continuing"
-
-      - name: Show directory contents (debug)
-        run: ls -la
+        run: python fetch.py
 
       - name: Commit JSON if exists
         run: |
