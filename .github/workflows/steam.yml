@@ -1,8 +1,8 @@
-name: Steam Wishlist Filter
+name: Steam Wishlist Tracker
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # 6時間ごと
+    - cron: "0 */6 * * *"   # 6時間ごと
   workflow_dispatch:
 
 jobs:
@@ -10,23 +10,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.x"
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
-      - name: Run script
-        run: python fetch.py
-
-      - name: Commit JSON
+      - name: Run fetch script
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add wishlist_sale_under_1000.json
-          git commit -m "Update wishlist JSON" || echo "No changes"
-          git push
+          python fetch.py || echo "fetch.py failed but continuing"
+
+      - name: Show directory contents (debug)
+        run: ls -la
+
+      - name: Commit JSON if exists
+        run: |
+          if [ -f wishlist_sale_under_1000.json ]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add wishlist_sale_under_1000.json
+            git commit -m "Update wishlist JSON" || echo "No changes"
+            git push
+          else
+            echo "JSON file not generated. Skipping commit."
+          fi
