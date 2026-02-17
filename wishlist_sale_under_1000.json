@@ -13,7 +13,7 @@
   },
   {
     "appid": 2060160,
-    "name": "The Farmer Was Replaced",
+    "name": "農家は Replace() されました",
     "final_price": 960.0,
     "discount_percent": 20
   },
@@ -37,13 +37,13 @@
   },
   {
     "appid": 2348100,
-    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM!",
+    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
     "final_price": 777.0,
     "discount_percent": 30
   },
   {
     "appid": 2744230,
-    "name": "YEAH! YOU WANT \"THOSE GAMES,\" RIGHT? SO HERE YOU GO! NOW, LET'S SEE YOU CLEAR THEM! 2",
+    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
     "final_price": 777.0,
     "discount_percent": 30
   },
