@@ -29,7 +29,8 @@ for appid in appids:
     detail_url = f"https://store.steampowered.com/api/appdetails"
     detail_params = {
         "appids": appid,
-        "cc": "jp"
+        "cc": "jp",
+        "l": "japanese"
     }
 
     res = requests.get(detail_url, params=detail_params)
