@@ -12,6 +12,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 673750,
+    "name": "スーパーバニーマン",
+    "final_price": 850.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 386940,
     "name": "Ultimate Chicken Horse",
     "final_price": 640.0,
@@ -22,6 +28,12 @@
     "name": "Garry's Mod",
     "final_price": 490.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 3527290,
+    "name": "PEAK",
+    "final_price": 545.0,
+    "discount_percent": 38
   },
   {
     "appid": 1943950,
@@ -52,5 +64,11 @@
     "name": "Will You Snail?",
     "final_price": 975.0,
     "discount_percent": 25
+  },
+  {
+    "appid": 641320,
+    "name": "Cooking Simulator",
+    "final_price": 512.0,
+    "discount_percent": 75
   }
 ]
