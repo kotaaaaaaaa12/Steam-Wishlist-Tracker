@@ -48,6 +48,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 641990,
+    "name": "The Escapists 2",
+    "final_price": 529.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 244210,
     "name": "Assetto Corsa",
     "final_price": 512.0,
@@ -64,6 +70,12 @@
     "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
     "final_price": 777.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "final_price": 695.0,
+    "discount_percent": 75
   },
   {
     "appid": 1115050,
