@@ -48,6 +48,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 641990,
     "name": "The Escapists 2",
     "final_price": 529.0,
@@ -76,12 +82,6 @@
     "name": "Euro Truck Simulator 2",
     "final_price": 695.0,
     "discount_percent": 75
-  },
-  {
-    "appid": 1115050,
-    "name": "Will You Snail?",
-    "final_price": 975.0,
-    "discount_percent": 25
   },
   {
     "appid": 641320,
