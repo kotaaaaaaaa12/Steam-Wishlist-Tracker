@@ -6,28 +6,16 @@
     "discount_percent": 14
   },
   {
-    "appid": 1240210,
-    "name": "There Is No Game: Wrong Dimension",
-    "final_price": 792.0,
-    "discount_percent": 40
-  },
-  {
-    "appid": 2060160,
-    "name": "農家は Replace() されました",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 673750,
     "name": "スーパーバニーマン",
     "final_price": 850.0,
     "discount_percent": 50
   },
   {
-    "appid": 386940,
-    "name": "Ultimate Chicken Horse",
-    "final_price": 640.0,
-    "discount_percent": 60
+    "appid": 1222140,
+    "name": "Detroit: Become Human",
+    "final_price": 900.0,
+    "discount_percent": 80
   },
   {
     "appid": 4000,
@@ -64,18 +52,6 @@
     "name": "Assetto Corsa",
     "final_price": 512.0,
     "discount_percent": 75
-  },
-  {
-    "appid": 2348100,
-    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
-    "final_price": 777.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 2744230,
-    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
-    "final_price": 777.0,
-    "discount_percent": 30
   },
   {
     "appid": 227300,
