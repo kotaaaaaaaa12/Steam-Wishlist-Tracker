@@ -12,12 +12,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 1222140,
-    "name": "Detroit: Become Human",
-    "final_price": 900.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 4000,
     "name": "Garry's Mod",
     "final_price": 490.0,
@@ -30,16 +24,16 @@
     "discount_percent": 38
   },
   {
-    "appid": 1943950,
-    "name": "Escape the Backrooms",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 3314790,
     "name": "CloverPit",
     "final_price": 960.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 3585800,
+    "name": "Keep Digging / キープディギング",
+    "final_price": 495.0,
+    "discount_percent": 10
   },
   {
     "appid": 641990,
