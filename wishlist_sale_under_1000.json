@@ -1,11 +1,5 @@
 [
   {
-    "appid": 3998870,
-    "name": "アンインストール・シミュレーター",
-    "final_price": 498.0,
-    "discount_percent": 14
-  },
-  {
     "appid": 673750,
     "name": "スーパーバニーマン",
     "final_price": 850.0,
@@ -46,6 +40,12 @@
     "name": "Euro Truck Simulator 2",
     "final_price": 695.0,
     "discount_percent": 75
+  },
+  {
+    "appid": 1382070,
+    "name": "Viewfinder",
+    "final_price": 980.0,
+    "discount_percent": 65
   },
   {
     "appid": 641320,
