@@ -1,5 +1,11 @@
 [
   {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "final_price": 340.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 673750,
     "name": "スーパーバニーマン",
     "final_price": 850.0,
@@ -9,6 +15,12 @@
     "appid": 4000,
     "name": "Garry's Mod",
     "final_price": 490.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 600.0,
     "discount_percent": 50
   },
   {
@@ -34,12 +46,6 @@
     "name": "The Escapists 2",
     "final_price": 529.0,
     "discount_percent": 80
-  },
-  {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "final_price": 695.0,
-    "discount_percent": 75
   },
   {
     "appid": 1382070,
