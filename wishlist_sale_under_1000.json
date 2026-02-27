@@ -1,63 +1,9 @@
 [
   {
-    "appid": 1659040,
-    "name": "HITMAN World of Assassination",
-    "final_price": 340.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 673750,
-    "name": "スーパーバニーマン",
-    "final_price": 850.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 4000,
     "name": "Garry's Mod",
     "final_price": 490.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 600.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 3527290,
-    "name": "PEAK",
-    "final_price": 545.0,
-    "discount_percent": 38
-  },
-  {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 3585800,
-    "name": "Keep Digging / キープディギング",
-    "final_price": 495.0,
-    "discount_percent": 10
-  },
-  {
-    "appid": 641990,
-    "name": "The Escapists 2",
-    "final_price": 529.0,
-    "discount_percent": 80
-  },
-  {
-    "appid": 1382070,
-    "name": "Viewfinder",
-    "final_price": 980.0,
-    "discount_percent": 65
-  },
-  {
-    "appid": 641320,
-    "name": "Cooking Simulator",
-    "final_price": 512.0,
-    "discount_percent": 75
   },
   {
     "appid": 600480,
@@ -66,9 +12,63 @@
     "discount_percent": 70
   },
   {
+    "appid": 641320,
+    "name": "Cooking Simulator",
+    "final_price": 512.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 641990,
+    "name": "The Escapists 2",
+    "final_price": 529.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 673750,
+    "name": "スーパーバニーマン",
+    "final_price": 850.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 1382070,
+    "name": "Viewfinder",
+    "final_price": 980.0,
+    "discount_percent": 65
+  },
+  {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "final_price": 340.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 600.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 3483400,
     "name": "ARK: Astraeos",
     "final_price": 770.0,
     "discount_percent": 67
+  },
+  {
+    "appid": 3527290,
+    "name": "PEAK",
+    "final_price": 545.0,
+    "discount_percent": 38
+  },
+  {
+    "appid": 3585800,
+    "name": "Keep Digging / キープディギング",
+    "final_price": 495.0,
+    "discount_percent": 10
   }
 ]
