@@ -58,5 +58,17 @@
     "name": "Cooking Simulator",
     "final_price": 512.0,
     "discount_percent": 75
+  },
+  {
+    "appid": 600480,
+    "name": "Megaquarium",
+    "final_price": 840.0,
+    "discount_percent": 70
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
   }
 ]
