@@ -52,5 +52,11 @@
     "name": "Keep Digging / キープディギング",
     "final_price": 495.0,
     "discount_percent": 10
+  },
+  {
+    "appid": 3672720,
+    "name": "Prison Escape Simulator: Dig Out",
+    "final_price": 511.0,
+    "discount_percent": 27
   }
 ]
