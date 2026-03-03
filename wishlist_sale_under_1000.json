@@ -1,9 +1,9 @@
 [
   {
-    "appid": 4000,
-    "name": "Garry's Mod",
-    "final_price": 490.0,
-    "discount_percent": 50
+    "appid": 210970,
+    "name": "The Witness",
+    "final_price": 796.0,
+    "discount_percent": 80
   },
   {
     "appid": 600480,
@@ -42,6 +42,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 420.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3244220,
     "name": "A Game About Digging A Hole™",
     "final_price": 423.0,
@@ -54,10 +60,10 @@
     "discount_percent": 20
   },
   {
-    "appid": 3585800,
-    "name": "Keep Digging / キープディギング",
-    "final_price": 495.0,
-    "discount_percent": 10
+    "appid": 3363270,
+    "name": "ねこねこ釣り日記",
+    "final_price": 540.0,
+    "discount_percent": 40
   },
   {
     "appid": 3672720,
