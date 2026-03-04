@@ -18,10 +18,10 @@
     "discount_percent": 80
   },
   {
-    "appid": 673750,
-    "name": "スーパーバニーマン",
-    "final_price": 850.0,
-    "discount_percent": 50
+    "appid": 674940,
+    "name": "Stick Fight: The Game",
+    "final_price": 220.0,
+    "discount_percent": 60
   },
   {
     "appid": 1472560,
@@ -48,6 +48,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3241660,
+    "name": "R.E.P.O.",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3244220,
     "name": "A Game About Digging A Hole™",
     "final_price": 423.0,
@@ -64,6 +70,12 @@
     "name": "ねこねこ釣り日記",
     "final_price": 540.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 3456800,
+    "name": "岩を砕く | Rock Crusher",
+    "final_price": 624.0,
+    "discount_percent": 22
   },
   {
     "appid": 3672720,
