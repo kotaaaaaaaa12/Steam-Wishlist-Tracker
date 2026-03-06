@@ -82,5 +82,17 @@
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 511.0,
     "discount_percent": 27
+  },
+  {
+    "appid": 2198800,
+    "name": "CRUMB Circuit Simulator",
+    "final_price": 750.0,
+    "discount_percent": 25
+  },
+  {
+    "appid": 265930,
+    "name": "Goat Simulator",
+    "final_price": 278.0,
+    "discount_percent": 80
   }
 ]
