@@ -30,6 +30,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1585220,
+    "name": "Melatonin",
+    "final_price": 850.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1659040,
     "name": "HITMAN World of Assassination",
     "final_price": 340.0,
