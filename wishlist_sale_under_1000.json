@@ -30,6 +30,12 @@
     "discount_percent": 60
   },
   {
+    "appid": 1016920,
+    "name": "Unrailed!",
+    "final_price": 420.0,
+    "discount_percent": 85
+  },
+  {
     "appid": 1472560,
     "name": "俺は魚だよ",
     "final_price": 512.0,
@@ -48,12 +54,6 @@
     "discount_percent": 90
   },
   {
-    "appid": 2198800,
-    "name": "CRUMB Circuit Simulator",
-    "final_price": 750.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 2963880,
     "name": "Murky Divers",
     "final_price": 600.0,
@@ -70,12 +70,6 @@
     "name": "R.E.P.O.",
     "final_price": 840.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 423.0,
-    "discount_percent": 27
   },
   {
     "appid": 3363270,
