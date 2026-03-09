@@ -6,6 +6,12 @@
     "discount_percent": 80
   },
   {
+    "appid": 265930,
+    "name": "Goat Simulator",
+    "final_price": 278.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 298630,
     "name": "The Escapists",
     "final_price": 356.0,
@@ -40,6 +46,12 @@
     "name": "HITMAN World of Assassination",
     "final_price": 340.0,
     "discount_percent": 90
+  },
+  {
+    "appid": 2198800,
+    "name": "CRUMB Circuit Simulator",
+    "final_price": 750.0,
+    "discount_percent": 25
   },
   {
     "appid": 2963880,
@@ -82,17 +94,5 @@
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 511.0,
     "discount_percent": 27
-  },
-  {
-    "appid": 2198800,
-    "name": "CRUMB Circuit Simulator",
-    "final_price": 750.0,
-    "discount_percent": 25
-  },
-  {
-    "appid": 265930,
-    "name": "Goat Simulator",
-    "final_price": 278.0,
-    "discount_percent": 80
   }
 ]
