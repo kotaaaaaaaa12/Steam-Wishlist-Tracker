@@ -18,6 +18,12 @@
     "discount_percent": 80
   },
   {
+    "appid": 447150,
+    "name": "APE OUT",
+    "final_price": 340.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 674940,
     "name": "Stick Fight: The Game",
     "final_price": 220.0,
@@ -42,16 +48,10 @@
     "discount_percent": 50
   },
   {
-    "appid": 1659040,
-    "name": "HITMAN World of Assassination",
-    "final_price": 340.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 600.0,
-    "discount_percent": 50
+    "appid": 2827200,
+    "name": "ミメシス",
+    "final_price": 900.0,
+    "discount_percent": 25
   },
   {
     "appid": 3167550,
