@@ -42,12 +42,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1585220,
-    "name": "Melatonin",
-    "final_price": 850.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 2827200,
     "name": "ミメシス",
     "final_price": 900.0,
@@ -76,11 +70,5 @@
     "name": "岩を砕く | Rock Crusher",
     "final_price": 624.0,
     "discount_percent": 22
-  },
-  {
-    "appid": 3672720,
-    "name": "Prison Escape Simulator: Dig Out",
-    "final_price": 511.0,
-    "discount_percent": 27
   }
 ]
