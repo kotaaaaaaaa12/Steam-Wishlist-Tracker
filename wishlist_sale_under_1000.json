@@ -1,11 +1,5 @@
 [
   {
-    "appid": 210970,
-    "name": "The Witness",
-    "final_price": 796.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 265930,
     "name": "Goat Simulator",
     "final_price": 278.0,
@@ -16,6 +10,12 @@
     "name": "The Escapists",
     "final_price": 356.0,
     "discount_percent": 80
+  },
+  {
+    "appid": 381210,
+    "name": "デッドバイデイライト",
+    "final_price": 792.0,
+    "discount_percent": 60
   },
   {
     "appid": 447150,
@@ -42,22 +42,10 @@
     "discount_percent": 25
   },
   {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 420.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 3241660,
     "name": "R.E.P.O.",
     "final_price": 840.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3363270,
-    "name": "ねこねこ釣り日記",
-    "final_price": 540.0,
-    "discount_percent": 40
   },
   {
     "appid": 3456800,
