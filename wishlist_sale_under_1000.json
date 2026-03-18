@@ -24,12 +24,6 @@
     "discount_percent": 80
   },
   {
-    "appid": 674940,
-    "name": "Stick Fight: The Game",
-    "final_price": 220.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 1016920,
     "name": "Unrailed!",
     "final_price": 420.0,
@@ -40,17 +34,5 @@
     "name": "ミメシス",
     "final_price": 900.0,
     "discount_percent": 25
-  },
-  {
-    "appid": 3241660,
-    "name": "R.E.P.O.",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3456800,
-    "name": "岩を砕く | Rock Crusher",
-    "final_price": 624.0,
-    "discount_percent": 22
   }
 ]
