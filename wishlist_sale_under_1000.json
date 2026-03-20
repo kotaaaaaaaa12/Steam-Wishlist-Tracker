@@ -1,17 +1,5 @@
 [
   {
-    "appid": 400,
-    "name": "Portal",
-    "final_price": 240.0,
-    "discount_percent": 80
-  },
-  {
-    "appid": 620,
-    "name": "Portal 2",
-    "final_price": 240.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 4000,
     "name": "Garry's Mod",
     "final_price": 490.0,
@@ -36,21 +24,9 @@
     "discount_percent": 75
   },
   {
-    "appid": 248610,
-    "name": "Door Kickers",
-    "final_price": 460.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 265930,
     "name": "Goat Simulator",
     "final_price": 278.0,
-    "discount_percent": 80
-  },
-  {
-    "appid": 298630,
-    "name": "The Escapists",
-    "final_price": 356.0,
     "discount_percent": 80
   },
   {
@@ -64,12 +40,6 @@
     "name": "ASTRONEER",
     "final_price": 875.0,
     "discount_percent": 75
-  },
-  {
-    "appid": 367450,
-    "name": "Poly Bridge",
-    "final_price": 101.0,
-    "discount_percent": 90
   },
   {
     "appid": 367520,
@@ -132,18 +102,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1016920,
-    "name": "Unrailed!",
-    "final_price": 420.0,
-    "discount_percent": 85
-  },
-  {
-    "appid": 1062160,
-    "name": "Poly Bridge 2",
-    "final_price": 304.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 1115050,
     "name": "Will You Snail?",
     "final_price": 871.0,
@@ -166,12 +124,6 @@
     "name": "Make Way",
     "final_price": 561.0,
     "discount_percent": 67
-  },
-  {
-    "appid": 1456200,
-    "name": "Initial Drift Online",
-    "final_price": 145.0,
-    "discount_percent": 75
   },
   {
     "appid": 1472560,
@@ -202,12 +154,6 @@
     "name": "Poppy Playtime - Chapter 2",
     "final_price": 757.0,
     "discount_percent": 25
-  },
-  {
-    "appid": 1850160,
-    "name": "Poly Bridge 3",
-    "final_price": 920.0,
-    "discount_percent": 60
   },
   {
     "appid": 1942280,
