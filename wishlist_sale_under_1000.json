@@ -364,5 +364,11 @@
     "name": "MyVoiceZoo",
     "final_price": 280.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 242760,
+    "name": "The Forest",
+    "final_price": 451.0,
+    "discount_percent": 78
   }
 ]
