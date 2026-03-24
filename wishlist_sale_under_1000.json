@@ -6,12 +6,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 210970,
-    "name": "The Witness",
-    "final_price": 796.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 219890,
     "name": "Antichamber",
     "final_price": 990.0,
@@ -28,12 +22,6 @@
     "name": "The Forest",
     "final_price": 451.0,
     "discount_percent": 78
-  },
-  {
-    "appid": 265930,
-    "name": "Goat Simulator",
-    "final_price": 278.0,
-    "discount_percent": 80
   },
   {
     "appid": 341800,
@@ -70,12 +58,6 @@
     "name": "Stardew Valley",
     "final_price": 740.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 447150,
-    "name": "APE OUT",
-    "final_price": 340.0,
-    "discount_percent": 80
   },
   {
     "appid": 600480,
@@ -316,6 +298,12 @@
     "name": "ねこねこ釣り日記",
     "final_price": 540.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 3445580,
+    "name": "Ambidextro",
+    "final_price": 644.0,
+    "discount_percent": 30
   },
   {
     "appid": 3456800,
