@@ -16,5 +16,11 @@
     "name": "SECTOR ZERO",
     "final_price": 376.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 3445580,
+    "name": "Ambidextro",
+    "final_price": 552.0,
+    "discount_percent": 40
   }
 ]
