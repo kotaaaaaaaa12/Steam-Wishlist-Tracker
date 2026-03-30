@@ -1,5 +1,17 @@
 [
   {
+    "appid": 361420,
+    "name": "ASTRONEER",
+    "final_price": 875.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 641990,
+    "name": "The Escapists 2",
+    "final_price": 495.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 1445790,
     "name": "Make Way",
     "final_price": 425.0,
