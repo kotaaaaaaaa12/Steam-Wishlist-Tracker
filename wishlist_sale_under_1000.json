@@ -46,5 +46,11 @@
     "name": "Airport X-Ray Simulator",
     "final_price": 900.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
   }
 ]
