@@ -52,5 +52,11 @@
     "name": "ARK: Astraeos",
     "final_price": 770.0,
     "discount_percent": 67
+  },
+  {
+    "appid": 322500,
+    "name": "SUPERHOT",
+    "final_price": 749.0,
+    "discount_percent": 70
   }
 ]
