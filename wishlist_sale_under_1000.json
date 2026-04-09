@@ -24,6 +24,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1942280,
+    "name": "Brotato",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 1943950,
     "name": "Escape the Backrooms",
     "final_price": 960.0,
