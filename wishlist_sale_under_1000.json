@@ -30,6 +30,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 2060160,
+    "name": "農家は Replace() されました",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 2857000,
     "name": "refarm",
     "final_price": 352.0,
