@@ -1,17 +1,5 @@
 [
   {
-    "appid": 322500,
-    "name": "SUPERHOT",
-    "final_price": 749.0,
-    "discount_percent": 70
-  },
-  {
-    "appid": 493340,
-    "name": "プラネットコースター",
-    "final_price": 229.0,
-    "discount_percent": 95
-  },
-  {
     "appid": 641990,
     "name": "The Escapists 2",
     "final_price": 529.0,
@@ -40,12 +28,6 @@
     "name": "Murky Divers",
     "final_price": 660.0,
     "discount_percent": 45
-  },
-  {
-    "appid": 3079970,
-    "name": "Airport X-Ray Simulator",
-    "final_price": 900.0,
-    "discount_percent": 40
   },
   {
     "appid": 3244220,
