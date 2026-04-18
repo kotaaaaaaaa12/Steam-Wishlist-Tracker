@@ -58,5 +58,11 @@
     "name": "Astro Prospector",
     "final_price": 435.0,
     "discount_percent": 25
+  },
+  {
+    "appid": 1049410,
+    "name": "Superliminal",
+    "final_price": 920.0,
+    "discount_percent": 60
   }
 ]
