@@ -12,6 +12,12 @@
     "discount_percent": 60
   },
   {
+    "appid": 1049410,
+    "name": "Superliminal",
+    "final_price": 920.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 1942280,
     "name": "Brotato",
     "final_price": 406.0,
@@ -58,11 +64,5 @@
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 455.0,
     "discount_percent": 35
-  },
-  {
-    "appid": 1049410,
-    "name": "Superliminal",
-    "final_price": 920.0,
-    "discount_percent": 60
   }
 ]
