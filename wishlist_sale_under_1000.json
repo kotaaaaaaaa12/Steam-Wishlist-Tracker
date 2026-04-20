@@ -18,6 +18,18 @@
     "discount_percent": 60
   },
   {
+    "appid": 1142810,
+    "name": "トースターボール",
+    "final_price": 360.0,
+    "discount_percent": 70
+  },
+  {
+    "appid": 1344440,
+    "name": "Spaceflux",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 1942280,
     "name": "Brotato",
     "final_price": 406.0,
@@ -28,12 +40,6 @@
     "name": "農家は Replace() されました",
     "final_price": 960.0,
     "discount_percent": 20
-  },
-  {
-    "appid": 2198800,
-    "name": "CRUMB Circuit Simulator",
-    "final_price": 750.0,
-    "discount_percent": 25
   },
   {
     "appid": 2963880,
@@ -54,10 +60,10 @@
     "discount_percent": 30
   },
   {
-    "appid": 3503440,
-    "name": "Astro Prospector",
-    "final_price": 435.0,
-    "discount_percent": 25
+    "appid": 3436030,
+    "name": "IDLE BOSS RUSH",
+    "final_price": 960.0,
+    "discount_percent": 20
   },
   {
     "appid": 3672720,
