@@ -6,6 +6,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 341800,
+    "name": "Keep Talking and Nobody Explodes",
+    "final_price": 561.0,
+    "discount_percent": 67
+  },
+  {
     "appid": 381210,
     "name": "デッドバイデイライト",
     "final_price": 792.0,
