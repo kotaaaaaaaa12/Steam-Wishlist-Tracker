@@ -42,10 +42,22 @@
     "discount_percent": 30
   },
   {
+    "appid": 1509510,
+    "name": "Settlement Survival",
+    "final_price": 782.0,
+    "discount_percent": 66
+  },
+  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 725.0,
     "discount_percent": 75
+  },
+  {
+    "appid": 1999360,
+    "name": "Placid Plastic Duck Simulator",
+    "final_price": 155.0,
+    "discount_percent": 50
   },
   {
     "appid": 2060160,
@@ -76,17 +88,5 @@
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 455.0,
     "discount_percent": 35
-  },
-  {
-    "appid": 1509510,
-    "name": "Settlement Survival",
-    "final_price": 782.0,
-    "discount_percent": 66
-  },
-  {
-    "appid": 1999360,
-    "name": "Placid Plastic Duck Simulator",
-    "final_price": 155.0,
-    "discount_percent": 50
   }
 ]
