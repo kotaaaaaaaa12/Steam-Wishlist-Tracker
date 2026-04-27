@@ -18,28 +18,16 @@
     "discount_percent": 60
   },
   {
-    "appid": 641990,
-    "name": "The Escapists 2",
-    "final_price": 529.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 674940,
     "name": "Stick Fight: The Game",
     "final_price": 220.0,
     "discount_percent": 60
   },
   {
-    "appid": 1142810,
-    "name": "トースターボール",
-    "final_price": 360.0,
-    "discount_percent": 70
-  },
-  {
-    "appid": 1344440,
-    "name": "Spaceflux",
-    "final_price": 406.0,
-    "discount_percent": 30
+    "appid": 785780,
+    "name": "OF MICE AND SAND -REVISED-",
+    "final_price": 120.0,
+    "discount_percent": 90
   },
   {
     "appid": 1509510,
@@ -60,10 +48,28 @@
     "discount_percent": 50
   },
   {
+    "appid": 2348100,
+    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
+    "final_price": 777.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 2744230,
+    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
+    "final_price": 777.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3167550,
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3241660,
+    "name": "R.E.P.O.",
+    "final_price": 840.0,
+    "discount_percent": 30
   },
   {
     "appid": 3363270,
@@ -72,9 +78,9 @@
     "discount_percent": 50
   },
   {
-    "appid": 3436030,
-    "name": "IDLE BOSS RUSH",
-    "final_price": 960.0,
+    "appid": 3585800,
+    "name": "Keep Digging / キープディギング",
+    "final_price": 440.0,
     "discount_percent": 20
   },
   {
