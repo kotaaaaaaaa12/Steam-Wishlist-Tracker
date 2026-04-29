@@ -88,5 +88,17 @@
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 455.0,
     "discount_percent": 35
+  },
+  {
+    "appid": 3360580,
+    "name": "ODEN",
+    "final_price": 99.0,
+    "discount_percent": 55
+  },
+  {
+    "appid": 4226780,
+    "name": "C.A.R.S. - Creating A Ridiculous Shitshow",
+    "final_price": 368.0,
+    "discount_percent": 60
   }
 ]
