@@ -18,18 +18,6 @@
     "discount_percent": 60
   },
   {
-    "appid": 674940,
-    "name": "Stick Fight: The Game",
-    "final_price": 220.0,
-    "discount_percent": 60
-  },
-  {
-    "appid": 785780,
-    "name": "OF MICE AND SAND -REVISED-",
-    "final_price": 120.0,
-    "discount_percent": 90
-  },
-  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 782.0,
@@ -88,11 +76,5 @@
     "name": "ODEN",
     "final_price": 99.0,
     "discount_percent": 55
-  },
-  {
-    "appid": 4226780,
-    "name": "C.A.R.S. - Creating A Ridiculous Shitshow",
-    "final_price": 368.0,
-    "discount_percent": 60
   }
 ]
