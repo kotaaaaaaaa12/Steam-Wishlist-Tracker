@@ -48,6 +48,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 2842590,
+    "name": "Only Up !",
+    "final_price": 720.0,
+    "discount_percent": 10
+  },
+  {
     "appid": 3167550,
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
@@ -64,6 +70,12 @@
     "name": "ねこねこ釣り日記",
     "final_price": 450.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 3651480,
+    "name": "Only Up 3",
+    "final_price": 522.0,
+    "discount_percent": 10
   },
   {
     "appid": 3672720,
