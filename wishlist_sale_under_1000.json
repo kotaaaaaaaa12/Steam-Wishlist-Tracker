@@ -18,6 +18,12 @@
     "discount_percent": 66
   },
   {
+    "appid": 1585220,
+    "name": "Melatonin",
+    "final_price": 850.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 725.0,
@@ -70,12 +76,6 @@
     "name": "Only Up 3",
     "final_price": 522.0,
     "discount_percent": 10
-  },
-  {
-    "appid": 3672720,
-    "name": "Prison Escape Simulator: Dig Out",
-    "final_price": 455.0,
-    "discount_percent": 35
   },
   {
     "appid": 3360580,
