@@ -1,17 +1,5 @@
 [
   {
-    "appid": 4000,
-    "name": "Garry's Mod",
-    "final_price": 490.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 381210,
-    "name": "デッドバイデイライト",
-    "final_price": 792.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 1092790,
     "name": "Inscryption",
     "final_price": 820.0,
@@ -28,12 +16,6 @@
     "name": "Melatonin",
     "final_price": 850.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 1928690,
-    "name": "Bionic Bay / バイオニックベイ",
-    "final_price": 725.0,
-    "discount_percent": 75
   },
   {
     "appid": 2842590,
