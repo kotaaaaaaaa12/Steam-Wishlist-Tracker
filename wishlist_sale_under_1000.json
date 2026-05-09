@@ -18,6 +18,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 2352050,
+    "name": "SECTOR ZERO",
+    "final_price": 376.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 2842590,
     "name": "Only Up !",
     "final_price": 720.0,
