@@ -1,14 +1,14 @@
 [
   {
-    "appid": 1092790,
-    "name": "Inscryption",
-    "final_price": 820.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 1472560,
     "name": "俺は魚だよ",
     "final_price": 410.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "final_price": 680.0,
     "discount_percent": 80
   },
   {
@@ -18,27 +18,9 @@
     "discount_percent": 20
   },
   {
-    "appid": 2842590,
-    "name": "Only Up !",
-    "final_price": 720.0,
-    "discount_percent": 10
-  },
-  {
-    "appid": 3241660,
-    "name": "R.E.P.O.",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 3456800,
     "name": "岩を砕く | Rock Crusher",
     "final_price": 560.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3651480,
-    "name": "Only Up 3",
-    "final_price": 522.0,
-    "discount_percent": 10
   }
 ]
