@@ -1,5 +1,11 @@
 [
   {
+    "appid": 386940,
+    "name": "Ultimate Chicken Horse",
+    "final_price": 800.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1472560,
     "name": "俺は魚だよ",
     "final_price": 410.0,
