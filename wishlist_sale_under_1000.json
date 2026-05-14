@@ -1,9 +1,33 @@
 [
   {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "final_price": 695.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 386940,
     "name": "Ultimate Chicken Horse",
     "final_price": 800.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 413150,
+    "name": "Stardew Valley",
+    "final_price": 740.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 600480,
+    "name": "Megaquarium",
+    "final_price": 945.0,
+    "discount_percent": 70
+  },
+  {
+    "appid": 1445790,
+    "name": "Make Way",
+    "final_price": 425.0,
+    "discount_percent": 75
   },
   {
     "appid": 1472560,
