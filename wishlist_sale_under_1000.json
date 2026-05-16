@@ -6,6 +6,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 322500,
+    "name": "SUPERHOT",
+    "final_price": 749.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 386940,
     "name": "Ultimate Chicken Horse",
     "final_price": 800.0,
