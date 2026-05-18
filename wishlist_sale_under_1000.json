@@ -42,12 +42,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1472560,
-    "name": "俺は魚だよ",
-    "final_price": 410.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 1659040,
     "name": "HITMAN World of Assassination",
     "final_price": 680.0,
@@ -60,9 +54,21 @@
     "discount_percent": 20
   },
   {
-    "appid": 3456800,
-    "name": "岩を砕く | Rock Crusher",
-    "final_price": 560.0,
+    "appid": 2857000,
+    "name": "refarm",
+    "final_price": 352.0,
+    "discount_percent": 25
+  },
+  {
+    "appid": 3255540,
+    "name": "These Darker Tides",
+    "final_price": 644.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3445580,
+    "name": "Ambidextro",
+    "final_price": 693.0,
     "discount_percent": 30
   },
   {
@@ -70,11 +76,5 @@
     "name": "ティングス・グース",
     "final_price": 616.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3834090,
-    "name": "YAPYAP",
-    "final_price": 960.0,
-    "discount_percent": 20
   }
 ]
