@@ -72,6 +72,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
+  },
+  {
     "appid": 3629780,
     "name": "ティングス・グース",
     "final_price": 616.0,
