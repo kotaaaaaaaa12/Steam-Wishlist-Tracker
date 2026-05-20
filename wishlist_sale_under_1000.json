@@ -42,6 +42,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 1097200,
+    "name": "Twelve Minutes",
+    "final_price": 870.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 1445790,
     "name": "Make Way",
     "final_price": 425.0,
