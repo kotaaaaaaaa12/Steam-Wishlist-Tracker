@@ -18,12 +18,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 413150,
-    "name": "Stardew Valley",
-    "final_price": 740.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 600480,
     "name": "Megaquarium",
     "final_price": 945.0,
@@ -57,6 +51,12 @@
     "appid": 1445790,
     "name": "Make Way",
     "final_price": 425.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 1598230,
+    "name": "KILLER INN",
+    "final_price": 300.0,
     "discount_percent": 75
   },
   {
@@ -100,11 +100,5 @@
     "name": "ティングス・グース",
     "final_price": 616.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3834090,
-    "name": "YAPYAP",
-    "final_price": 960.0,
-    "discount_percent": 20
   }
 ]
