@@ -30,6 +30,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 613100,
+    "name": "ハウスフリッパー",
+    "final_price": 280.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 632300,
     "name": "Hobo: Tough Life",
     "final_price": 850.0,
@@ -94,5 +100,11 @@
     "name": "ティングス・グース",
     "final_price": 616.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "final_price": 960.0,
+    "discount_percent": 20
   }
 ]
