@@ -66,12 +66,6 @@
     "discount_percent": 80
   },
   {
-    "appid": 2352050,
-    "name": "SECTOR ZERO",
-    "final_price": 376.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 2857000,
     "name": "refarm",
     "final_price": 352.0,
