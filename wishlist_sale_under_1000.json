@@ -1,5 +1,11 @@
 [
   {
+    "appid": 246620,
+    "name": "Plague Inc: Evolved",
+    "final_price": 340.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 322500,
     "name": "SUPERHOT",
     "final_price": 749.0,
@@ -16,12 +22,6 @@
     "name": "ハウスフリッパー",
     "final_price": 280.0,
     "discount_percent": 90
-  },
-  {
-    "appid": 632300,
-    "name": "Hobo: Tough Life",
-    "final_price": 850.0,
-    "discount_percent": 75
   },
   {
     "appid": 673750,
@@ -63,24 +63,6 @@
     "appid": 3255540,
     "name": "These Darker Tides",
     "final_price": 644.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3445580,
-    "name": "Ambidextro",
-    "final_price": 693.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3483400,
-    "name": "ARK: Astraeos",
-    "final_price": 770.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3629780,
-    "name": "ティングス・グース",
-    "final_price": 616.0,
     "discount_percent": 30
   }
 ]
