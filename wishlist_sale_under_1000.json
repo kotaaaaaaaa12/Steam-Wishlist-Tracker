@@ -36,10 +36,22 @@
     "discount_percent": 70
   },
   {
+    "appid": 1240210,
+    "name": "There Is No Game: Wrong Dimension",
+    "final_price": 660.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1445790,
     "name": "Make Way",
     "final_price": 425.0,
     "discount_percent": 75
+  },
+  {
+    "appid": 1586860,
+    "name": "Bonesaw",
+    "final_price": 333.0,
+    "discount_percent": 50
   },
   {
     "appid": 1598230,
@@ -48,21 +60,9 @@
     "discount_percent": 75
   },
   {
-    "appid": 1659040,
-    "name": "HITMAN World of Assassination",
-    "final_price": 680.0,
-    "discount_percent": 80
-  },
-  {
-    "appid": 2857000,
-    "name": "refarm",
-    "final_price": 352.0,
+    "appid": 2198800,
+    "name": "CRUMB Circuit Simulator",
+    "final_price": 750.0,
     "discount_percent": 25
-  },
-  {
-    "appid": 3255540,
-    "name": "These Darker Tides",
-    "final_price": 644.0,
-    "discount_percent": 30
   }
 ]
