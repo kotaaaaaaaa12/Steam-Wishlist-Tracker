@@ -36,10 +36,22 @@
     "discount_percent": 70
   },
   {
+    "appid": 1120320,
+    "name": "Builder Simulator",
+    "final_price": 460.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 1240210,
     "name": "There Is No Game: Wrong Dimension",
     "final_price": 660.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 1336490,
+    "name": "Against the Storm アゲインスト・ザ・ストーム",
+    "final_price": 894.0,
+    "discount_percent": 70
   },
   {
     "appid": 1445790,
