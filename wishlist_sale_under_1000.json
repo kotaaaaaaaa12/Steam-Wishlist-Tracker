@@ -12,12 +12,6 @@
     "discount_percent": 70
   },
   {
-    "appid": 386940,
-    "name": "Ultimate Chicken Horse",
-    "final_price": 800.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 613100,
     "name": "ハウスフリッパー",
     "final_price": 280.0,
@@ -72,6 +66,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1943950,
+    "name": "Escape the Backrooms",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 2060160,
     "name": "農家は Replace() されました",
     "final_price": 960.0,
@@ -82,5 +82,35 @@
     "name": "CRUMB Circuit Simulator",
     "final_price": 750.0,
     "discount_percent": 25
+  },
+  {
+    "appid": 3629780,
+    "name": "ティングス・グース",
+    "final_price": 616.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 2972680,
+    "name": "ARK Fantastic Tames - Pyromane",
+    "final_price": 257.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3282470,
+    "name": "ARK Fantastic Tames - Dreadmare",
+    "final_price": 243.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3571730,
+    "name": "ARK Animated Series 109-Costumes Pack",
+    "final_price": 736.0,
+    "discount_percent": 67
   }
 ]
