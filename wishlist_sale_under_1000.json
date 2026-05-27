@@ -72,6 +72,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 2060160,
+    "name": "農家は Replace() されました",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 2198800,
     "name": "CRUMB Circuit Simulator",
     "final_price": 750.0,
