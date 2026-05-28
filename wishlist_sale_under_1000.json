@@ -82,5 +82,11 @@
     "name": "CRUMB Circuit Simulator",
     "final_price": 750.0,
     "discount_percent": 25
+  },
+  {
+    "appid": 2300840,
+    "name": "Subliminal",
+    "final_price": 960.0,
+    "discount_percent": 20
   }
 ]
