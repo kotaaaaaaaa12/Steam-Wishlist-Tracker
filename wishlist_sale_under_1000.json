@@ -24,6 +24,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 1049410,
+    "name": "Superliminal",
+    "final_price": 920.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 1097200,
     "name": "Twelve Minutes",
     "final_price": 870.0,
@@ -46,12 +52,6 @@
     "name": "Against the Storm アゲインスト・ザ・ストーム",
     "final_price": 894.0,
     "discount_percent": 70
-  },
-  {
-    "appid": 1445790,
-    "name": "Make Way",
-    "final_price": 425.0,
-    "discount_percent": 75
   },
   {
     "appid": 1586860,
@@ -88,5 +88,17 @@
     "name": "Subliminal",
     "final_price": 960.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 2677310,
+    "name": "GRIDROAD",
+    "final_price": 720.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 394.0,
+    "discount_percent": 32
   }
 ]
