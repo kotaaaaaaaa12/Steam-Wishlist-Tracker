@@ -24,6 +24,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 704850,
+    "name": "Thief Simulator",
+    "final_price": 230.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
@@ -46,6 +52,12 @@
     "name": "There Is No Game: Wrong Dimension",
     "final_price": 660.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 1332720,
+    "name": "Thief Simulator 2",
+    "final_price": 644.0,
+    "discount_percent": 72
   },
   {
     "appid": 1336490,
@@ -100,5 +112,11 @@
     "name": "A Game About Digging A Hole™",
     "final_price": 394.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
   }
 ]
