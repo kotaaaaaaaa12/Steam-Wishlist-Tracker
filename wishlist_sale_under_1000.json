@@ -12,12 +12,6 @@
     "discount_percent": 90
   },
   {
-    "appid": 673750,
-    "name": "スーパーバニーマン",
-    "final_price": 850.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 704850,
     "name": "Thief Simulator",
     "final_price": 230.0,
@@ -100,6 +94,12 @@
     "name": "GRIDROAD",
     "final_price": 720.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 2881650,
+    "name": "Content Warning",
+    "final_price": 570.0,
+    "discount_percent": 38
   },
   {
     "appid": 3244220,
