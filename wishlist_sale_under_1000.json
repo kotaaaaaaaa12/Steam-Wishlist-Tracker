@@ -36,10 +36,10 @@
     "discount_percent": 80
   },
   {
-    "appid": 1240210,
-    "name": "There Is No Game: Wrong Dimension",
-    "final_price": 660.0,
-    "discount_percent": 50
+    "appid": 1142810,
+    "name": "トースターボール",
+    "final_price": 360.0,
+    "discount_percent": 70
   },
   {
     "appid": 1332720,
@@ -52,12 +52,6 @@
     "name": "Against the Storm アゲインスト・ザ・ストーム",
     "final_price": 894.0,
     "discount_percent": 70
-  },
-  {
-    "appid": 1586860,
-    "name": "Bonesaw",
-    "final_price": 333.0,
-    "discount_percent": 50
   },
   {
     "appid": 1598230,
@@ -78,22 +72,10 @@
     "discount_percent": 20
   },
   {
-    "appid": 2198800,
-    "name": "CRUMB Circuit Simulator",
-    "final_price": 750.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 2300840,
     "name": "Subliminal",
     "final_price": 960.0,
     "discount_percent": 20
-  },
-  {
-    "appid": 2677310,
-    "name": "GRIDROAD",
-    "final_price": 720.0,
-    "discount_percent": 40
   },
   {
     "appid": 2881650,
@@ -106,23 +88,5 @@
     "name": "ARK Fantastic Tames - Pyromane",
     "final_price": 257.0,
     "discount_percent": 67
-  },
-  {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 394.0,
-    "discount_percent": 32
-  },
-  {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 960.0,
-    "discount_percent": 20
   }
 ]
