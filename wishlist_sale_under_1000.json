@@ -102,10 +102,22 @@
     "discount_percent": 38
   },
   {
+    "appid": 2972680,
+    "name": "ARK Fantastic Tames - Pyromane",
+    "final_price": 257.0,
+    "discount_percent": 67
+  },
+  {
     "appid": 3244220,
     "name": "A Game About Digging A Hole™",
     "final_price": 394.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3282470,
+    "name": "ARK Fantastic Tames - Dreadmare",
+    "final_price": 243.0,
+    "discount_percent": 67
   },
   {
     "appid": 3314790,
