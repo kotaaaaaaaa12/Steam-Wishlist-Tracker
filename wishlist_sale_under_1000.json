@@ -24,12 +24,6 @@
     "discount_percent": 60
   },
   {
-    "appid": 1097200,
-    "name": "Twelve Minutes",
-    "final_price": 870.0,
-    "discount_percent": 70
-  },
-  {
     "appid": 1120320,
     "name": "Builder Simulator",
     "final_price": 460.0,
@@ -90,9 +84,9 @@
     "discount_percent": 32
   },
   {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 960.0,
-    "discount_percent": 20
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
   }
 ]
