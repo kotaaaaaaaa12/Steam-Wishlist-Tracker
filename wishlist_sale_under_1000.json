@@ -84,6 +84,12 @@
     "discount_percent": 32
   },
   {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 3833430,
     "name": "Red Passport: Ticket to Russia",
     "final_price": 460.0,
