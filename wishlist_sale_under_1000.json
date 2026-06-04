@@ -6,12 +6,6 @@
     "discount_percent": 80
   },
   {
-    "appid": 613100,
-    "name": "ハウスフリッパー",
-    "final_price": 280.0,
-    "discount_percent": 90
-  },
-  {
     "appid": 704850,
     "name": "Thief Simulator",
     "final_price": 230.0,
@@ -82,5 +76,17 @@
     "name": "A Game About Digging A Hole™",
     "final_price": 394.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
   }
 ]
