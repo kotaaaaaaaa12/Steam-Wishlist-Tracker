@@ -1,5 +1,11 @@
 [
   {
+    "appid": 242760,
+    "name": "The Forest",
+    "final_price": 451.0,
+    "discount_percent": 78
+  },
+  {
     "appid": 246620,
     "name": "Plague Inc: Evolved",
     "final_price": 340.0,
@@ -42,12 +48,6 @@
     "discount_percent": 70
   },
   {
-    "appid": 1598230,
-    "name": "KILLER INN （キラーイン）",
-    "final_price": 300.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 1943950,
     "name": "Escape the Backrooms",
     "final_price": 960.0,
@@ -70,18 +70,6 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
-  },
-  {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 394.0,
-    "discount_percent": 32
-  },
-  {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 960.0,
-    "discount_percent": 20
   },
   {
     "appid": 3833430,
