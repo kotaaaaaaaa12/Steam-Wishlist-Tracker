@@ -78,21 +78,9 @@
     "discount_percent": 38
   },
   {
-    "appid": 1509960,
-    "name": "PICO PARK",
-    "final_price": 364.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 2644470,
-    "name": "PICO PARK 2",
-    "final_price": 686.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 460.0,
-    "discount_percent": 50
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
   }
 ]
