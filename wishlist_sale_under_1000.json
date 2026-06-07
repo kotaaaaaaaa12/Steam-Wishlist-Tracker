@@ -1,17 +1,5 @@
 [
   {
-    "appid": 242760,
-    "name": "The Forest",
-    "final_price": 451.0,
-    "discount_percent": 78
-  },
-  {
-    "appid": 704850,
-    "name": "Thief Simulator",
-    "final_price": 230.0,
-    "discount_percent": 90
-  },
-  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
@@ -28,12 +16,6 @@
     "name": "トースターボール",
     "final_price": 360.0,
     "discount_percent": 70
-  },
-  {
-    "appid": 1332720,
-    "name": "Thief Simulator 2",
-    "final_price": 644.0,
-    "discount_percent": 72
   },
   {
     "appid": 1336490,
