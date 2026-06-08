@@ -1,21 +1,27 @@
 [
   {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "final_price": 490.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
     "discount_percent": 60
   },
   {
+    "appid": 1115050,
+    "name": "Will You Snail?",
+    "final_price": 780.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 1120320,
     "name": "Builder Simulator",
     "final_price": 460.0,
     "discount_percent": 80
-  },
-  {
-    "appid": 1142810,
-    "name": "トースターボール",
-    "final_price": 360.0,
-    "discount_percent": 70
   },
   {
     "appid": 1336490,
@@ -34,6 +40,12 @@
     "name": "PICO PARK",
     "final_price": 364.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 1794680,
+    "name": "Vampire Survivors",
+    "final_price": 374.0,
+    "discount_percent": 25
   },
   {
     "appid": 1942280,
@@ -60,9 +72,21 @@
     "discount_percent": 20
   },
   {
+    "appid": 2348100,
+    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
+    "final_price": 777.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 2644470,
     "name": "PICO PARK 2",
     "final_price": 686.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 2744230,
+    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
+    "final_price": 777.0,
     "discount_percent": 30
   },
   {
@@ -70,6 +94,12 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
+  },
+  {
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 528.0,
+    "discount_percent": 56
   },
   {
     "appid": 3314790,
