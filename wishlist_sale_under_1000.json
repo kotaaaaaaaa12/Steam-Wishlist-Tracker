@@ -88,5 +88,11 @@
     "name": "Murky Divers",
     "final_price": 528.0,
     "discount_percent": 56
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 960.0,
+    "discount_percent": 20
   }
 ]
