@@ -94,5 +94,11 @@
     "name": "CloverPit",
     "final_price": 960.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 4704690,
+    "name": "めっちゃカメレオン",
+    "final_price": 632.0,
+    "discount_percent": 20
   }
 ]
