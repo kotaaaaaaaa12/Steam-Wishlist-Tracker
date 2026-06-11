@@ -6,9 +6,27 @@
     "discount_percent": 50
   },
   {
-    "appid": 1049410,
-    "name": "Superliminal",
-    "final_price": 920.0,
+    "appid": 521890,
+    "name": "Hello Neighbor",
+    "final_price": 680.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 609490,
+    "name": "Minit",
+    "final_price": 240.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 641990,
+    "name": "The Escapists 2",
+    "final_price": 495.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 1092790,
+    "name": "Inscryption",
+    "final_price": 820.0,
     "discount_percent": 60
   },
   {
@@ -24,6 +42,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 1509510,
+    "name": "Settlement Survival",
+    "final_price": 575.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 1509960,
     "name": "PICO PARK",
     "final_price": 364.0,
@@ -36,16 +60,34 @@
     "discount_percent": 25
   },
   {
+    "appid": 1928690,
+    "name": "Bionic Bay / バイオニックベイ",
+    "final_price": 725.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 1942280,
     "name": "Brotato",
     "final_price": 348.0,
     "discount_percent": 40
   },
   {
+    "appid": 1999360,
+    "name": "Placid Plastic Duck Simulator",
+    "final_price": 155.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 2348100,
     "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
     "final_price": 777.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 2633640,
+    "name": "Eyes: The Horror Game",
+    "final_price": 116.0,
+    "discount_percent": 80
   },
   {
     "appid": 2644470,
@@ -72,10 +114,10 @@
     "discount_percent": 56
   },
   {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 960.0,
-    "discount_percent": 20
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
   },
   {
     "appid": 4704690,
