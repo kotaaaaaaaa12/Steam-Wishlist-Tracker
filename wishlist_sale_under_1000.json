@@ -30,12 +30,6 @@
     "discount_percent": 40
   },
   {
-    "appid": 1344440,
-    "name": "Spaceflux",
-    "final_price": 406.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 575.0,
@@ -90,12 +84,6 @@
     "discount_percent": 30
   },
   {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
-  },
-  {
     "appid": 2963880,
     "name": "Murky Divers",
     "final_price": 528.0,
@@ -108,15 +96,9 @@
     "discount_percent": 32
   },
   {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 4704690,
-    "name": "めっちゃカメレオン",
-    "final_price": 632.0,
-    "discount_percent": 20
+    "appid": 3363270,
+    "name": "ねこねこ釣り日記",
+    "final_price": 450.0,
+    "discount_percent": 50
   }
 ]
