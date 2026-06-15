@@ -24,22 +24,10 @@
     "discount_percent": 60
   },
   {
-    "appid": 1115050,
-    "name": "Will You Snail?",
-    "final_price": 780.0,
-    "discount_percent": 40
-  },
-  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 575.0,
     "discount_percent": 75
-  },
-  {
-    "appid": 1794680,
-    "name": "Vampire Survivors",
-    "final_price": 374.0,
-    "discount_percent": 25
   },
   {
     "appid": 1928690,
@@ -60,16 +48,10 @@
     "discount_percent": 50
   },
   {
-    "appid": 2348100,
-    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
-    "final_price": 777.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 2744230,
-    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
-    "final_price": 777.0,
-    "discount_percent": 30
+    "appid": 2653170,
+    "name": "Only Up 2",
+    "final_price": 460.0,
+    "discount_percent": 50
   },
   {
     "appid": 2963880,
@@ -82,6 +64,12 @@
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3864450,
+    "name": "Goblin Company",
+    "final_price": 960.0,
+    "discount_percent": 20
   },
   {
     "appid": 4704690,
