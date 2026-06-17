@@ -60,6 +60,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 2827200,
+    "name": "ミメシス",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 2963880,
     "name": "Murky Divers",
     "final_price": 528.0,
@@ -70,5 +76,11 @@
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3864450,
+    "name": "Goblin Company",
+    "final_price": 960.0,
+    "discount_percent": 20
   }
 ]
