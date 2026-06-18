@@ -12,12 +12,6 @@
     "discount_percent": 60
   },
   {
-    "appid": 521890,
-    "name": "Hello Neighbor",
-    "final_price": 680.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 641990,
     "name": "The Escapists 2",
     "final_price": 495.0,
@@ -30,15 +24,15 @@
     "discount_percent": 60
   },
   {
+    "appid": 1472560,
+    "name": "俺は魚だよ",
+    "final_price": 410.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 575.0,
-    "discount_percent": 75
-  },
-  {
-    "appid": 1928690,
-    "name": "Bionic Bay / バイオニックベイ",
-    "final_price": 725.0,
     "discount_percent": 75
   },
   {
@@ -70,11 +64,5 @@
     "name": "Murky Divers",
     "final_price": 528.0,
     "discount_percent": 56
-  },
-  {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 408.0,
-    "discount_percent": 32
   }
 ]
