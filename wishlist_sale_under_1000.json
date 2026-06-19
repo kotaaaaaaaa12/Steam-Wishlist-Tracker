@@ -64,5 +64,17 @@
     "name": "Murky Divers",
     "final_price": 528.0,
     "discount_percent": 56
+  },
+  {
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
+  },
+  {
+    "appid": 3363270,
+    "name": "ねこねこ釣り日記",
+    "final_price": 450.0,
+    "discount_percent": 50
   }
 ]
