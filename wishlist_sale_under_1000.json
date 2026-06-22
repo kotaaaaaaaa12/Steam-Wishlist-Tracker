@@ -1,11 +1,5 @@
 [
   {
-    "appid": 4000,
-    "name": "Garry's Mod",
-    "final_price": 490.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 381210,
     "name": "デッドバイデイライト",
     "final_price": 792.0,
@@ -42,22 +36,10 @@
     "discount_percent": 50
   },
   {
-    "appid": 2653170,
-    "name": "Only Up 2",
-    "final_price": 460.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 2827200,
     "name": "ミメシス",
     "final_price": 840.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 528.0,
-    "discount_percent": 56
   },
   {
     "appid": 3167550,
