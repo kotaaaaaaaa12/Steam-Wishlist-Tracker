@@ -34,17 +34,5 @@
     "name": "Placid Plastic Duck Simulator",
     "final_price": 155.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 2827200,
-    "name": "ミメシス",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 408.0,
-    "discount_percent": 32
   }
 ]
