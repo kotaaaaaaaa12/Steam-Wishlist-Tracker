@@ -408,33 +408,15 @@
     "discount_percent": 30
   },
   {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
   },
   {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3360580,
-    "name": "ODEN",
-    "final_price": 99.0,
-    "discount_percent": 55
-  },
-  {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
-  },
-  {
-    "appid": 3369390,
-    "name": "ペンギンホテル2 -スネークペンギンの野望-",
-    "final_price": 240.0,
-    "discount_percent": 80
+    "appid": 3998870,
+    "name": "アンインストール・シミュレーター",
+    "final_price": 217.0,
+    "discount_percent": 45
   }
 ]
