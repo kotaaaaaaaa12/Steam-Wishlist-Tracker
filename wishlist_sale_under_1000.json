@@ -414,15 +414,33 @@
     "discount_percent": 67
   },
   {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 840.0,
+    "discount_percent": 30
   },
   {
-    "appid": 3369390,
-    "name": "ペンギンホテル2 -スネークペンギンの野望-",
-    "final_price": 240.0,
-    "discount_percent": 80
+    "appid": 3363270,
+    "name": "ねこねこ釣り日記",
+    "final_price": 450.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3384190,
+    "name": "TrickShot Simulator",
+    "final_price": 420.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3401490,
+    "name": "Replicube",
+    "final_price": 600.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3438990,
+    "name": "Cheaters Cheetah",
+    "final_price": 480.0,
+    "discount_percent": 60
   }
 ]
