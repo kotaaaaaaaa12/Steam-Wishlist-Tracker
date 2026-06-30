@@ -426,6 +426,18 @@
     "discount_percent": 50
   },
   {
+    "appid": 3384190,
+    "name": "TrickShot Simulator",
+    "final_price": 420.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3998870,
+    "name": "アンインストール・シミュレーター",
+    "final_price": 217.0,
+    "discount_percent": 45
+  },
+  {
     "appid": 3168600,
     "name": "Among Us 3D",
     "final_price": 660.0,
