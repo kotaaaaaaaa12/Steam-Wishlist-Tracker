@@ -432,27 +432,9 @@
     "discount_percent": 30
   },
   {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 460.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 3998870,
-    "name": "アンインストール・シミュレーター",
-    "final_price": 217.0,
-    "discount_percent": 45
-  },
-  {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
-  },
-  {
-    "appid": 3369390,
-    "name": "ペンギンホテル2 -スネークペンギンの野望-",
-    "final_price": 240.0,
-    "discount_percent": 80
+    "appid": 3438990,
+    "name": "Cheaters Cheetah",
+    "final_price": 480.0,
+    "discount_percent": 60
   }
 ]
