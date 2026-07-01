@@ -430,5 +430,29 @@
     "name": "TrickShot Simulator",
     "final_price": 420.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "final_price": 644.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3998870,
+    "name": "アンインストール・シミュレーター",
+    "final_price": 217.0,
+    "discount_percent": 45
+  },
+  {
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3369390,
+    "name": "ペンギンホテル2 -スネークペンギンの野望-",
+    "final_price": 240.0,
+    "discount_percent": 80
   }
 ]
