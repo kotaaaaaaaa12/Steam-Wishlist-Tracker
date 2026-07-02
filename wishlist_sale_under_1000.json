@@ -420,9 +420,21 @@
     "discount_percent": 67
   },
   {
-    "appid": 3585800,
-    "name": "Keep Digging / キープディギング",
-    "final_price": 680.0,
-    "discount_percent": 20
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3998870,
+    "name": "アンインストール・シミュレーター",
+    "final_price": 217.0,
+    "discount_percent": 45
   }
 ]
