@@ -402,21 +402,33 @@
     "discount_percent": 20
   },
   {
-    "appid": 3585800,
-    "name": "Keep Digging / キープディギング",
-    "final_price": 680.0,
-    "discount_percent": 20
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 388.0,
+    "discount_percent": 33
+  },
+  {
+    "appid": 3255540,
+    "name": "These Darker Tides",
+    "final_price": 644.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3282470,
+    "name": "ARK Fantastic Tames - Dreadmare",
+    "final_price": 243.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 840.0,
+    "discount_percent": 30
   },
   {
     "appid": 3833430,
     "name": "Red Passport: Ticket to Russia",
     "final_price": 460.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 447040,
-    "name": "Watch_Dogs® 2",
-    "final_price": 396.0,
-    "discount_percent": 95
   }
 ]
