@@ -426,9 +426,21 @@
     "discount_percent": 30
   },
   {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 460.0,
-    "discount_percent": 50
+    "appid": 1693980,
+    "name": "Dead Space",
+    "final_price": 870.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 731040,
+    "name": "The Invincible",
+    "final_price": 429.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 447040,
+    "name": "Watch_Dogs® 2",
+    "final_price": 396.0,
+    "discount_percent": 95
   }
 ]
