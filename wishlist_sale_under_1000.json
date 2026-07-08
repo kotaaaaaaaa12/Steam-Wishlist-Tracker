@@ -408,27 +408,15 @@
     "discount_percent": 33
   },
   {
-    "appid": 3255540,
-    "name": "These Darker Tides",
-    "final_price": 644.0,
-    "discount_percent": 30
+    "appid": 3585800,
+    "name": "Keep Digging / キープディギング",
+    "final_price": 680.0,
+    "discount_percent": 20
   },
   {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3438990,
-    "name": "Cheaters Cheetah",
-    "final_price": 480.0,
-    "discount_percent": 60
+    "appid": 3998870,
+    "name": "アンインストール・シミュレーター",
+    "final_price": 217.0,
+    "discount_percent": 45
   }
 ]
