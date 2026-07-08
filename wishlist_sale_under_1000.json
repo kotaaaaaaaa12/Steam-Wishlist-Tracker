@@ -396,46 +396,28 @@
     "discount_percent": 40
   },
   {
-    "appid": 3242750,
-    "name": "Level Devil",
-    "final_price": 640.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 388.0,
-    "discount_percent": 33
-  },
-  {
-    "appid": 3255540,
-    "name": "These Darker Tides",
-    "final_price": 644.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3363270,
-    "name": "ねこねこ釣り日記",
-    "final_price": 450.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 3438990,
     "name": "Cheaters Cheetah",
     "final_price": 480.0,
     "discount_percent": 60
+  },
+  {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "final_price": 644.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3998870,
+    "name": "アンインストール・シミュレーター",
+    "final_price": 217.0,
+    "discount_percent": 45
   },
   {
     "appid": 1693980,
