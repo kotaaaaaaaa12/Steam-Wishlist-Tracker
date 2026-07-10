@@ -40,17 +40,5 @@
     "name": "ARK Fantastic Tames - Pyromane",
     "final_price": 257.0,
     "discount_percent": 67
-  },
-  {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 447040,
-    "name": "Watch_Dogs® 2",
-    "final_price": 396.0,
-    "discount_percent": 95
   }
 ]
