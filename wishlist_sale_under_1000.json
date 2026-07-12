@@ -30,6 +30,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 1344440,
+    "name": "Spaceflux",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 1445790,
     "name": "Make Way",
     "final_price": 425.0,
@@ -40,6 +46,12 @@
     "name": "SECTOR ZERO",
     "final_price": 376.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 2881650,
+    "name": "Content Warning",
+    "final_price": 460.0,
+    "discount_percent": 50
   },
   {
     "appid": 2972680,
