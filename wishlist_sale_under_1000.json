@@ -102,16 +102,16 @@
     "discount_percent": 67
   },
   {
-    "appid": 3585800,
-    "name": "Keep Digging / キープディギング",
-    "final_price": 637.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 3833430,
     "name": "Red Passport: Ticket to Russia",
     "final_price": 460.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 4170200,
+    "name": "Data Center",
+    "final_price": 920.0,
+    "discount_percent": 20
   },
   {
     "appid": 447040,
