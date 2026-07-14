@@ -90,30 +90,6 @@
     "discount_percent": 40
   },
   {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 377.0,
-    "discount_percent": 35
-  },
-  {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3585800,
-    "name": "Keep Digging / キープディギング",
-    "final_price": 637.0,
-    "discount_percent": 25
-  },
-  {
-    "appid": 4170200,
-    "name": "Data Center",
-    "final_price": 920.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 447040,
     "name": "Watch_Dogs® 2",
     "final_price": 396.0,
