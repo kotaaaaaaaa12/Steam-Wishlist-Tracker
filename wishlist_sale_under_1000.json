@@ -24,6 +24,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 1115050,
+    "name": "Will You Snail?",
+    "final_price": 780.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 1336490,
     "name": "Against the Storm アゲインスト・ザ・ストーム",
     "final_price": 894.0,
@@ -40,6 +46,12 @@
     "name": "Make Way",
     "final_price": 425.0,
     "discount_percent": 75
+  },
+  {
+    "appid": 1794680,
+    "name": "Vampire Survivors",
+    "final_price": 399.0,
+    "discount_percent": 20
   },
   {
     "appid": 2198800,
@@ -102,10 +114,10 @@
     "discount_percent": 67
   },
   {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 460.0,
-    "discount_percent": 50
+    "appid": 4170200,
+    "name": "Data Center",
+    "final_price": 920.0,
+    "discount_percent": 20
   },
   {
     "appid": 447040,
