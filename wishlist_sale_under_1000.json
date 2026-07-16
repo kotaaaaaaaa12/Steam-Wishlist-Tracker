@@ -12,6 +12,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 600480,
+    "name": "Megaquarium",
+    "final_price": 945.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
@@ -54,6 +60,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 1920430,
+    "name": "FUMES",
+    "final_price": 960.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 2198800,
     "name": "CRUMB Circuit Simulator",
     "final_price": 750.0,
@@ -64,12 +76,6 @@
     "name": "SECTOR ZERO",
     "final_price": 376.0,
     "discount_percent": 20
-  },
-  {
-    "appid": 2708450,
-    "name": "Oh Deer",
-    "final_price": 480.0,
-    "discount_percent": 60
   },
   {
     "appid": 2881650,
@@ -112,6 +118,12 @@
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
     "discount_percent": 67
+  },
+  {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
   },
   {
     "appid": 447040,
