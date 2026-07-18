@@ -106,5 +106,17 @@
     "name": "Among Us 3D",
     "final_price": 660.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 460.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 4170200,
+    "name": "Data Center",
+    "final_price": 920.0,
+    "discount_percent": 20
   }
 ]
