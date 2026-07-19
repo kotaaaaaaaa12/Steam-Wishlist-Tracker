@@ -118,11 +118,5 @@
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
     "discount_percent": 67
-  },
-  {
-    "appid": 4170200,
-    "name": "Data Center",
-    "final_price": 920.0,
-    "discount_percent": 20
   }
 ]
