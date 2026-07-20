@@ -1,11 +1,5 @@
 [
   {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "final_price": 695.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 320140,
     "name": "Absolute Drift",
     "final_price": 800.0,
@@ -48,6 +42,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "final_price": 680.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 1794680,
     "name": "Vampire Survivors",
     "final_price": 399.0,
@@ -60,16 +60,16 @@
     "discount_percent": 40
   },
   {
-    "appid": 2198800,
-    "name": "CRUMB Circuit Simulator",
-    "final_price": 750.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 2352050,
     "name": "SECTOR ZERO",
     "final_price": 376.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 2857000,
+    "name": "refarm",
+    "final_price": 352.0,
+    "discount_percent": 25
   },
   {
     "appid": 2881650,
@@ -90,12 +90,6 @@
     "discount_percent": 35
   },
   {
-    "appid": 3090570,
-    "name": "Time for Bed",
-    "final_price": 325.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 3168600,
     "name": "Among Us 3D",
     "final_price": 660.0,
@@ -114,9 +108,21 @@
     "discount_percent": 67
   },
   {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 460.0,
-    "discount_percent": 50
+    "appid": 3571730,
+    "name": "ARK Animated Series 109-Costumes Pack",
+    "final_price": 736.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3799100,
+    "name": "SIDE EFFECTS",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "final_price": 900.0,
+    "discount_percent": 25
   }
 ]
