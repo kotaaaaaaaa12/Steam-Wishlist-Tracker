@@ -1,5 +1,11 @@
 [
   {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "final_price": 490.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 320140,
     "name": "Absolute Drift",
     "final_price": 800.0,
@@ -22,12 +28,6 @@
     "name": "Twelve Minutes",
     "final_price": 870.0,
     "discount_percent": 70
-  },
-  {
-    "appid": 1115050,
-    "name": "Will You Snail?",
-    "final_price": 780.0,
-    "discount_percent": 40
   },
   {
     "appid": 1336490,
@@ -114,9 +114,15 @@
     "discount_percent": 30
   },
   {
-    "appid": 3834090,
-    "name": "YAPYAP",
-    "final_price": 900.0,
-    "discount_percent": 25
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 377.0,
+    "discount_percent": 35
+  },
+  {
+    "appid": 3282470,
+    "name": "ARK Fantastic Tames - Dreadmare",
+    "final_price": 243.0,
+    "discount_percent": 67
   }
 ]
