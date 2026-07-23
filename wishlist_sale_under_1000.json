@@ -6,12 +6,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 320140,
-    "name": "Absolute Drift",
-    "final_price": 800.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 600480,
     "name": "Megaquarium",
     "final_price": 945.0,
@@ -24,22 +18,10 @@
     "discount_percent": 60
   },
   {
-    "appid": 1097200,
-    "name": "Twelve Minutes",
-    "final_price": 870.0,
-    "discount_percent": 70
-  },
-  {
-    "appid": 1336490,
-    "name": "Against the Storm アゲインスト・ザ・ストーム",
-    "final_price": 894.0,
-    "discount_percent": 70
-  },
-  {
-    "appid": 1445790,
-    "name": "Make Way",
-    "final_price": 425.0,
-    "discount_percent": 75
+    "appid": 1120320,
+    "name": "Builder Simulator",
+    "final_price": 345.0,
+    "discount_percent": 85
   },
   {
     "appid": 1659040,
@@ -72,12 +54,6 @@
     "discount_percent": 40
   },
   {
-    "appid": 2352050,
-    "name": "SECTOR ZERO",
-    "final_price": 376.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 2857000,
     "name": "refarm",
     "final_price": 352.0,
@@ -90,10 +66,10 @@
     "discount_percent": 50
   },
   {
-    "appid": 2972680,
-    "name": "ARK Fantastic Tames - Pyromane",
-    "final_price": 257.0,
-    "discount_percent": 67
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 660.0,
+    "discount_percent": 45
   },
   {
     "appid": 3079970,
@@ -106,5 +82,29 @@
     "name": "Among Us 3D",
     "final_price": 660.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 3242750,
+    "name": "Level Devil",
+    "final_price": 560.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 377.0,
+    "discount_percent": 35
+  },
+  {
+    "appid": 3799100,
+    "name": "SIDE EFFECTS",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "final_price": 900.0,
+    "discount_percent": 25
   }
 ]
