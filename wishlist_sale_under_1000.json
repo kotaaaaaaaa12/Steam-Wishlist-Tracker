@@ -76,11 +76,5 @@
     "name": "Airport X-Ray Simulator",
     "final_price": 975.0,
     "discount_percent": 35
-  },
-  {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
   }
 ]
