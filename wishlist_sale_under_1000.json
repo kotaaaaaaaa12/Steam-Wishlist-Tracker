@@ -82,29 +82,5 @@
     "name": "Among Us 3D",
     "final_price": 660.0,
     "discount_percent": 40
-  },
-  {
-    "appid": 3242750,
-    "name": "Level Devil",
-    "final_price": 560.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 377.0,
-    "discount_percent": 35
-  },
-  {
-    "appid": 3799100,
-    "name": "SIDE EFFECTS",
-    "final_price": 406.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3834090,
-    "name": "YAPYAP",
-    "final_price": 900.0,
-    "discount_percent": 25
   }
 ]
