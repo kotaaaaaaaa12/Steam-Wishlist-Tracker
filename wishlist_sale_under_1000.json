@@ -82,5 +82,11 @@
     "name": "Among Us 3D",
     "final_price": 660.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 3242750,
+    "name": "Level Devil",
+    "final_price": 560.0,
+    "discount_percent": 30
   }
 ]
