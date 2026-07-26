@@ -6,12 +6,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 600480,
-    "name": "Megaquarium",
-    "final_price": 945.0,
-    "discount_percent": 70
-  },
-  {
     "appid": 1092790,
     "name": "Inscryption",
     "final_price": 820.0,
@@ -60,12 +54,6 @@
     "discount_percent": 25
   },
   {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 460.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 2963880,
     "name": "Murky Divers",
     "final_price": 660.0,
@@ -82,5 +70,17 @@
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3242750,
+    "name": "Level Devil",
+    "final_price": 560.0,
+    "discount_percent": 30
   }
 ]
