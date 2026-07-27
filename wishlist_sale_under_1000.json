@@ -18,10 +18,10 @@
     "discount_percent": 85
   },
   {
-    "appid": 1659040,
-    "name": "HITMAN World of Assassination",
-    "final_price": 680.0,
-    "discount_percent": 80
+    "appid": 1509510,
+    "name": "Settlement Survival",
+    "final_price": 623.0,
+    "discount_percent": 75
   },
   {
     "appid": 1794680,
@@ -54,27 +54,21 @@
     "discount_percent": 20
   },
   {
-    "appid": 2857000,
-    "name": "refarm",
-    "final_price": 352.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 2963880,
     "name": "Murky Divers",
     "final_price": 660.0,
     "discount_percent": 45
   },
   {
-    "appid": 3079970,
-    "name": "Airport X-Ray Simulator",
-    "final_price": 975.0,
-    "discount_percent": 35
-  },
-  {
     "appid": 3167550,
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3242750,
+    "name": "Level Devil",
+    "final_price": 560.0,
+    "discount_percent": 30
   }
 ]
