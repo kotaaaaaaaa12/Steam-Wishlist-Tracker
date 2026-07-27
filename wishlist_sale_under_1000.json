@@ -48,6 +48,12 @@
     "discount_percent": 40
   },
   {
+    "appid": 2060160,
+    "name": "農家は Replace() されました",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 2857000,
     "name": "refarm",
     "final_price": 352.0,
@@ -70,11 +76,5 @@
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
-  },
-  {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
   }
 ]
