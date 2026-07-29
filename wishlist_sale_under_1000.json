@@ -18,16 +18,16 @@
     "discount_percent": 85
   },
   {
+    "appid": 1472560,
+    "name": "俺は魚だよ",
+    "final_price": 410.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 623.0,
     "discount_percent": 75
-  },
-  {
-    "appid": 1794680,
-    "name": "Vampire Survivors",
-    "final_price": 399.0,
-    "discount_percent": 20
   },
   {
     "appid": 1920430,
