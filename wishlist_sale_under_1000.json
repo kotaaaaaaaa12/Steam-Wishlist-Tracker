@@ -6,12 +6,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 1092790,
-    "name": "Inscryption",
-    "final_price": 820.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 1120320,
     "name": "Builder Simulator",
     "final_price": 345.0,
@@ -30,12 +24,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1920430,
-    "name": "FUMES",
-    "final_price": 960.0,
-    "discount_percent": 40
-  },
-  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 725.0,
@@ -46,6 +34,12 @@
     "name": "Brotato",
     "final_price": 348.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 1943950,
+    "name": "Escape the Backrooms",
+    "final_price": 960.0,
+    "discount_percent": 20
   },
   {
     "appid": 2060160,
@@ -64,6 +58,12 @@
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
     "discount_percent": 32
+  },
+  {
+    "appid": 3864450,
+    "name": "Goblin Company",
+    "final_price": 960.0,
+    "discount_percent": 20
   },
   {
     "appid": 4754740,
