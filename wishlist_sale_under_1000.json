@@ -94,5 +94,47 @@
     "name": "Market Chain 98",
     "final_price": 769.0,
     "discount_percent": 15
+  },
+  {
+    "appid": 1262540,
+    "name": "Need for Speed™",
+    "final_price": 300.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1222680,
+    "name": "Need for Speed™ Heat",
+    "final_price": 475.0,
+    "discount_percent": 95
+  },
+  {
+    "appid": 1846380,
+    "name": "Need for Speed™ Unbound",
+    "final_price": 679.0,
+    "discount_percent": 93
+  },
+  {
+    "appid": 1262580,
+    "name": "Need for Speed™ Payback",
+    "final_price": 310.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1262600,
+    "name": "Need for Speed™ Rivals",
+    "final_price": 200.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "final_price": 200.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1328660,
+    "name": "Need for Speed™ Hot Pursuit Remastered",
+    "final_price": 310.0,
+    "discount_percent": 90
   }
 ]
