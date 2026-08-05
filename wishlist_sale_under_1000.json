@@ -1,9 +1,9 @@
 [
   {
-    "appid": 4000,
-    "name": "Garry's Mod",
-    "final_price": 490.0,
-    "discount_percent": 50
+    "appid": 521890,
+    "name": "Hello Neighbor",
+    "final_price": 680.0,
+    "discount_percent": 80
   },
   {
     "appid": 1120320,
@@ -72,10 +72,10 @@
     "discount_percent": 45
   },
   {
-    "appid": 3864450,
-    "name": "Goblin Company",
-    "final_price": 960.0,
-    "discount_percent": 20
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
   },
   {
     "appid": 4108000,
