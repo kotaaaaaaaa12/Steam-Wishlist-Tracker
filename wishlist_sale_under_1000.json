@@ -1,15 +1,15 @@
 [
   {
+    "appid": 386940,
+    "name": "Ultimate Chicken Horse",
+    "final_price": 560.0,
+    "discount_percent": 65
+  },
+  {
     "appid": 521890,
     "name": "Hello Neighbor",
     "final_price": 680.0,
     "discount_percent": 80
-  },
-  {
-    "appid": 1120320,
-    "name": "Builder Simulator",
-    "final_price": 345.0,
-    "discount_percent": 85
   },
   {
     "appid": 1142810,
@@ -33,6 +33,12 @@
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 623.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 1598230,
+    "name": "KILLER INN （キラーイン）",
+    "final_price": 300.0,
     "discount_percent": 75
   },
   {
@@ -66,15 +72,9 @@
     "discount_percent": 10
   },
   {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 660.0,
-    "discount_percent": 45
-  },
-  {
-    "appid": 3864450,
-    "name": "Goblin Company",
-    "final_price": 960.0,
+    "appid": 3876710,
+    "name": "Pigeon: A Love Story",
+    "final_price": 800.0,
     "discount_percent": 20
   },
   {
