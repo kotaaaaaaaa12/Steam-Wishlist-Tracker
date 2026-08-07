@@ -1,5 +1,11 @@
 [
   {
+    "appid": 322500,
+    "name": "SUPERHOT",
+    "final_price": 749.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 386940,
     "name": "Ultimate Chicken Horse",
     "final_price": 560.0,
@@ -36,6 +42,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1509960,
+    "name": "PICO PARK",
+    "final_price": 364.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 1598230,
     "name": "KILLER INN （キラーイン）",
     "final_price": 300.0,
@@ -60,16 +72,40 @@
     "discount_percent": 20
   },
   {
+    "appid": 2644470,
+    "name": "PICO PARK 2",
+    "final_price": 686.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 2653170,
     "name": "Only Up 2",
     "final_price": 460.0,
     "discount_percent": 50
   },
   {
-    "appid": 2842590,
-    "name": "Only Up !",
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
+  },
+  {
+    "appid": 3314790,
+    "name": "CloverPit",
     "final_price": 720.0,
-    "discount_percent": 10
+    "discount_percent": 40
+  },
+  {
+    "appid": 3864450,
+    "name": "Goblin Company",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 3876710,
+    "name": "Pigeon: A Love Story",
+    "final_price": 800.0,
+    "discount_percent": 20
   },
   {
     "appid": 4108000,
