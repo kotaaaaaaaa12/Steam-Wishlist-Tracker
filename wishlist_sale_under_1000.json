@@ -84,24 +84,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 408.0,
-    "discount_percent": 32
-  },
-  {
-    "appid": 3864450,
-    "name": "Goblin Company",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 3876710,
-    "name": "Pigeon: A Love Story",
-    "final_price": 800.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 4108000,
     "name": "Machine Party",
     "final_price": 807.0,
@@ -160,5 +142,11 @@
     "name": "QUICKERFLAK_RUTHLESSMOD",
     "final_price": 60.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 1496590,
+    "name": "Tchia",
+    "final_price": 975.0,
+    "discount_percent": 75
   }
 ]
