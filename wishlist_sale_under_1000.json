@@ -72,18 +72,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 3864450,
-    "name": "Goblin Company",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 3876710,
-    "name": "Pigeon: A Love Story",
-    "final_price": 800.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 4108000,
     "name": "Machine Party",
     "final_price": 807.0,
