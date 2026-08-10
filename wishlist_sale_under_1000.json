@@ -120,6 +120,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 3489420,
+    "name": "They Killed Your Cat",
+    "final_price": 720.0,
+    "discount_percent": 10
+  },
+  {
     "appid": 3526710,
     "name": "Everything is Crab: 生物進化ローグライト",
     "final_price": 960.0,
