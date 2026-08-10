@@ -24,16 +24,58 @@
     "discount_percent": 70
   },
   {
+    "appid": 1222680,
+    "name": "Need for Speed™ Heat",
+    "final_price": 475.0,
+    "discount_percent": 95
+  },
+  {
     "appid": 1240210,
     "name": "There Is No Game: Wrong Dimension",
     "final_price": 660.0,
     "discount_percent": 50
   },
   {
+    "appid": 1262540,
+    "name": "Need for Speed™",
+    "final_price": 300.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "final_price": 200.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1262580,
+    "name": "Need for Speed™ Payback",
+    "final_price": 310.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1262600,
+    "name": "Need for Speed™ Rivals",
+    "final_price": 200.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1328660,
+    "name": "Need for Speed™ Hot Pursuit Remastered",
+    "final_price": 310.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 1472560,
     "name": "俺は魚だよ",
     "final_price": 410.0,
     "discount_percent": 80
+  },
+  {
+    "appid": 1496590,
+    "name": "Tchia",
+    "final_price": 975.0,
+    "discount_percent": 75
   },
   {
     "appid": 1509510,
@@ -46,6 +88,12 @@
     "name": "PICO PARK",
     "final_price": 364.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 1846380,
+    "name": "Need for Speed™ Unbound",
+    "final_price": 679.0,
+    "discount_percent": 93
   },
   {
     "appid": 1928690,
@@ -72,6 +120,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 3526710,
+    "name": "Everything is Crab: 生物進化ローグライト",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 3864450,
     "name": "Goblin Company",
     "final_price": 960.0,
@@ -94,53 +148,5 @@
     "name": "Market Chain 98",
     "final_price": 769.0,
     "discount_percent": 15
-  },
-  {
-    "appid": 1262540,
-    "name": "Need for Speed™",
-    "final_price": 300.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 1222680,
-    "name": "Need for Speed™ Heat",
-    "final_price": 475.0,
-    "discount_percent": 95
-  },
-  {
-    "appid": 1846380,
-    "name": "Need for Speed™ Unbound",
-    "final_price": 679.0,
-    "discount_percent": 93
-  },
-  {
-    "appid": 1262580,
-    "name": "Need for Speed™ Payback",
-    "final_price": 310.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 1262600,
-    "name": "Need for Speed™ Rivals",
-    "final_price": 200.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 1262560,
-    "name": "Need for Speed™ Most Wanted",
-    "final_price": 200.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 1328660,
-    "name": "Need for Speed™ Hot Pursuit Remastered",
-    "final_price": 310.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 1496590,
-    "name": "Tchia",
-    "final_price": 975.0,
-    "discount_percent": 75
   }
 ]
