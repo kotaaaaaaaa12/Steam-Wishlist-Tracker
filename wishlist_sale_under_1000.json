@@ -114,10 +114,28 @@
     "discount_percent": 30
   },
   {
+    "appid": 2737070,
+    "name": "Crime Simulator",
+    "final_price": 934.0,
+    "discount_percent": 45
+  },
+  {
     "appid": 2744230,
     "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
     "final_price": 777.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 377.0,
+    "discount_percent": 35
+  },
+  {
+    "appid": 3526710,
+    "name": "Everything is Crab: 生物進化ローグライト",
+    "final_price": 960.0,
+    "discount_percent": 20
   },
   {
     "appid": 3864450,
