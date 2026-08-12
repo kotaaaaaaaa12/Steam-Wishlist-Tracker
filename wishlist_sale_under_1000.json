@@ -12,12 +12,6 @@
     "discount_percent": 65
   },
   {
-    "appid": 521890,
-    "name": "Hello Neighbor",
-    "final_price": 680.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 1222680,
     "name": "Need for Speed™ Heat",
     "final_price": 475.0,
@@ -52,12 +46,6 @@
     "name": "Need for Speed™ Hot Pursuit Remastered",
     "final_price": 310.0,
     "discount_percent": 90
-  },
-  {
-    "appid": 1472560,
-    "name": "俺は魚だよ",
-    "final_price": 410.0,
-    "discount_percent": 80
   },
   {
     "appid": 1496590,
@@ -132,6 +120,12 @@
     "discount_percent": 40
   },
   {
+    "appid": 3456800,
+    "name": "岩を砕く | Rock Crusher",
+    "final_price": 400.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 3503440,
     "name": "Astro Prospector",
     "final_price": 377.0,
@@ -159,12 +153,6 @@
     "appid": 4108000,
     "name": "Machine Party",
     "final_price": 807.0,
-    "discount_percent": 15
-  },
-  {
-    "appid": 4754740,
-    "name": "Market Chain 98",
-    "final_price": 769.0,
     "discount_percent": 15
   }
 ]
