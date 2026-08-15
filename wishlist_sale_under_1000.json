@@ -18,12 +18,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1509960,
-    "name": "PICO PARK",
-    "final_price": 364.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 900.0,
@@ -42,12 +36,6 @@
     "discount_percent": 30
   },
   {
-    "appid": 2644470,
-    "name": "PICO PARK 2",
-    "final_price": 686.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 2737070,
     "name": "Crime Simulator",
     "final_price": 934.0,
@@ -58,6 +46,12 @@
     "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
     "final_price": 777.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 377.0,
+    "discount_percent": 35
   },
   {
     "appid": 3672720,
