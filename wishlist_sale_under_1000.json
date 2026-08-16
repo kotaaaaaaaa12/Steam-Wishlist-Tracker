@@ -48,6 +48,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 377.0,
+    "discount_percent": 35
+  },
+  {
     "appid": 3672720,
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 570.0,
