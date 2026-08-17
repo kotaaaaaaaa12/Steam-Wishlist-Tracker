@@ -6,12 +6,6 @@
     "discount_percent": 70
   },
   {
-    "appid": 1496590,
-    "name": "Tchia",
-    "final_price": 975.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 575.0,
@@ -30,22 +24,22 @@
     "discount_percent": 50
   },
   {
-    "appid": 2348100,
-    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
-    "final_price": 777.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 2737070,
     "name": "Crime Simulator",
     "final_price": 934.0,
     "discount_percent": 45
   },
   {
-    "appid": 2744230,
-    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
-    "final_price": 777.0,
-    "discount_percent": 30
+    "appid": 3456800,
+    "name": "岩を砕く | Rock Crusher",
+    "final_price": 400.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 377.0,
+    "discount_percent": 35
   },
   {
     "appid": 3672720,
