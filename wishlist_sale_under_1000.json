@@ -1,5 +1,11 @@
 [
   {
+    "appid": 314160,
+    "name": "Microsoft Flight Simulator X: Steam Edition",
+    "final_price": 496.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 322500,
     "name": "SUPERHOT",
     "final_price": 749.0,
@@ -12,15 +18,15 @@
     "discount_percent": 75
   },
   {
-    "appid": 1928690,
-    "name": "Bionic Bay / バイオニックベイ",
-    "final_price": 900.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 1999360,
     "name": "Placid Plastic Duck Simulator",
     "final_price": 155.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 2244520,
+    "name": "バスケファイターズ: パーティー・バスケットボール",
+    "final_price": 235.0,
     "discount_percent": 50
   },
   {
