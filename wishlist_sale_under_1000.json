@@ -1,5 +1,11 @@
 [
   {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "final_price": 695.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 314160,
     "name": "Microsoft Flight Simulator X: Steam Edition",
     "final_price": 496.0,
