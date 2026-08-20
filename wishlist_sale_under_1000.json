@@ -18,6 +18,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 1059990,
+    "name": "Trombone Champ",
+    "final_price": 608.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 575.0,
@@ -46,11 +52,5 @@
     "name": "Prison Escape Simulator: Dig Out",
     "final_price": 570.0,
     "discount_percent": 40
-  },
-  {
-    "appid": 3876710,
-    "name": "Pigeon: A Love Story",
-    "final_price": 800.0,
-    "discount_percent": 20
   }
 ]
