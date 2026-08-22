@@ -18,10 +18,28 @@
     "discount_percent": 60
   },
   {
+    "appid": 1097200,
+    "name": "Twelve Minutes",
+    "final_price": 870.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 1115050,
     "name": "Will You Snail?",
     "final_price": 780.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 1336490,
+    "name": "Against the Storm アゲインスト・ザ・ストーム",
+    "final_price": 894.0,
+    "discount_percent": 70
+  },
+  {
+    "appid": 1445790,
+    "name": "Make Way",
+    "final_price": 425.0,
+    "discount_percent": 75
   },
   {
     "appid": 1509510,
@@ -40,6 +58,12 @@
     "name": "バスケファイターズ: パーティー・バスケットボール",
     "final_price": 235.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 2352050,
+    "name": "SECTOR ZERO",
+    "final_price": 376.0,
+    "discount_percent": 20
   },
   {
     "appid": 2737070,
