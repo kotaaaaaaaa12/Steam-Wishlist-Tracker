@@ -1,15 +1,21 @@
 [
   {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "final_price": 695.0,
-    "discount_percent": 75
+    "appid": 285900,
+    "name": "Gang Beasts",
+    "final_price": 920.0,
+    "discount_percent": 60
   },
   {
     "appid": 314160,
     "name": "Microsoft Flight Simulator X: Steam Edition",
     "final_price": 496.0,
     "discount_percent": 80
+  },
+  {
+    "appid": 381210,
+    "name": "デッドバイデイライト",
+    "final_price": 792.0,
+    "discount_percent": 60
   },
   {
     "appid": 1049410,
@@ -34,6 +40,12 @@
     "name": "Will You Snail?",
     "final_price": 780.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 1281640,
+    "name": "Medic: Pacific War",
+    "final_price": 800.0,
+    "discount_percent": 20
   },
   {
     "appid": 1336490,
@@ -66,10 +78,22 @@
     "discount_percent": 20
   },
   {
-    "appid": 2737070,
-    "name": "Crime Simulator",
-    "final_price": 934.0,
-    "discount_percent": 45
+    "appid": 2881650,
+    "name": "Content Warning",
+    "final_price": 570.0,
+    "discount_percent": 38
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3571730,
+    "name": "ARK Animated Series 109-Costumes Pack",
+    "final_price": 736.0,
+    "discount_percent": 67
   },
   {
     "appid": 3672720,
