@@ -18,15 +18,15 @@
     "discount_percent": 60
   },
   {
+    "appid": 600480,
+    "name": "Megaquarium",
+    "final_price": 945.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
-    "discount_percent": 60
-  },
-  {
-    "appid": 1059990,
-    "name": "Trombone Champ",
-    "final_price": 608.0,
     "discount_percent": 60
   },
   {
@@ -84,28 +84,10 @@
     "discount_percent": 25
   },
   {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
-  },
-  {
-    "appid": 3483400,
-    "name": "ARK: Astraeos",
-    "final_price": 770.0,
-    "discount_percent": 67
-  },
-  {
     "appid": 3571730,
     "name": "ARK Animated Series 109-Costumes Pack",
     "final_price": 736.0,
     "discount_percent": 67
-  },
-  {
-    "appid": 3672720,
-    "name": "Prison Escape Simulator: Dig Out",
-    "final_price": 570.0,
-    "discount_percent": 40
   },
   {
     "appid": 3833430,
