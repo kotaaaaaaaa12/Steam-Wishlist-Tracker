@@ -84,9 +84,15 @@
     "discount_percent": 25
   },
   {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
+    "appid": 2881650,
+    "name": "Content Warning",
+    "final_price": 570.0,
+    "discount_percent": 38
+  },
+  {
+    "appid": 2972680,
+    "name": "ARK Fantastic Tames - Pyromane",
+    "final_price": 257.0,
     "discount_percent": 67
   },
   {
