@@ -78,18 +78,6 @@
     "discount_percent": 20
   },
   {
-    "appid": 2857000,
-    "name": "refarm",
-    "final_price": 352.0,
-    "discount_percent": 25
-  },
-  {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
-  },
-  {
     "appid": 3483400,
     "name": "ARK: Astraeos",
     "final_price": 770.0,
