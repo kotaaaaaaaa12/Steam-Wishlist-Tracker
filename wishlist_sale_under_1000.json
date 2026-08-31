@@ -12,10 +12,34 @@
     "discount_percent": 80
   },
   {
+    "appid": 361420,
+    "name": "ASTRONEER",
+    "final_price": 875.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 600480,
     "name": "Megaquarium",
     "final_price": 945.0,
     "discount_percent": 70
+  },
+  {
+    "appid": 609320,
+    "name": "FAR: Lone Sails",
+    "final_price": 380.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 632300,
+    "name": "Hobo: Tough Life",
+    "final_price": 850.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 931310,
+    "name": "Airplane Mode",
+    "final_price": 244.0,
+    "discount_percent": 80
   },
   {
     "appid": 1049410,
@@ -72,16 +96,10 @@
     "discount_percent": 25
   },
   {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
-  },
-  {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
+    "appid": 3445580,
+    "name": "Ambidextro",
+    "final_price": 693.0,
+    "discount_percent": 30
   },
   {
     "appid": 3483400,
@@ -102,9 +120,15 @@
     "discount_percent": 40
   },
   {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 276.0,
-    "discount_percent": 70
+    "appid": 3834090,
+    "name": "YAPYAP",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 4170200,
+    "name": "Data Center",
+    "final_price": 920.0,
+    "discount_percent": 20
   }
 ]
