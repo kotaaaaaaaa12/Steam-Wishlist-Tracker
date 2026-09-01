@@ -24,34 +24,10 @@
     "discount_percent": 70
   },
   {
-    "appid": 609320,
-    "name": "FAR: Lone Sails",
-    "final_price": 380.0,
-    "discount_percent": 75
-  },
-  {
-    "appid": 632300,
-    "name": "Hobo: Tough Life",
-    "final_price": 850.0,
-    "discount_percent": 75
-  },
-  {
-    "appid": 931310,
-    "name": "Airplane Mode",
-    "final_price": 244.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
     "discount_percent": 60
-  },
-  {
-    "appid": 1097200,
-    "name": "Twelve Minutes",
-    "final_price": 870.0,
-    "discount_percent": 70
   },
   {
     "appid": 1281640,
@@ -66,22 +42,10 @@
     "discount_percent": 70
   },
   {
-    "appid": 1445790,
-    "name": "Make Way",
-    "final_price": 425.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 1794680,
     "name": "Vampire Survivors",
     "final_price": 374.0,
     "discount_percent": 25
-  },
-  {
-    "appid": 2244520,
-    "name": "バスケファイターズ: パーティー・バスケットボール",
-    "final_price": 235.0,
-    "discount_percent": 50
   },
   {
     "appid": 2352050,
@@ -108,9 +72,21 @@
     "discount_percent": 67
   },
   {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
+    "appid": 3445580,
+    "name": "Ambidextro",
+    "final_price": 693.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3571730,
+    "name": "ARK Animated Series 109-Costumes Pack",
+    "final_price": 736.0,
     "discount_percent": 67
   },
   {
