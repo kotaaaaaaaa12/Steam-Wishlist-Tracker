@@ -1,5 +1,11 @@
 [
   {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "final_price": 490.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 285900,
     "name": "Gang Beasts",
     "final_price": 920.0,
@@ -70,12 +76,6 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
-  },
-  {
-    "appid": 3445580,
-    "name": "Ambidextro",
-    "final_price": 693.0,
-    "discount_percent": 30
   },
   {
     "appid": 3483400,
