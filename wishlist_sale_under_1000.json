@@ -18,12 +18,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 600480,
-    "name": "Megaquarium",
-    "final_price": 945.0,
-    "discount_percent": 70
-  },
-  {
     "appid": 1049410,
     "name": "Superliminal",
     "final_price": 920.0,
@@ -64,6 +58,12 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
   },
   {
     "appid": 3571730,
