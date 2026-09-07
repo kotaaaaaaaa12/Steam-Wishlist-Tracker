@@ -48,33 +48,9 @@
     "discount_percent": 40
   },
   {
-    "appid": 2857000,
-    "name": "refarm",
-    "final_price": 352.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 2881650,
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
-  },
-  {
-    "appid": 2972680,
-    "name": "ARK Fantastic Tames - Pyromane",
-    "final_price": 257.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3834090,
-    "name": "YAPYAP",
-    "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 4170200,
-    "name": "Data Center",
-    "final_price": 920.0,
-    "discount_percent": 20
   }
 ]
