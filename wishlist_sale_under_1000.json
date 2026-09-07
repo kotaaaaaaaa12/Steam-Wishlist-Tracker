@@ -6,6 +6,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 107410,
+    "name": "Arma 3",
+    "final_price": 950.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 285900,
     "name": "Gang Beasts",
     "final_price": 920.0,
@@ -18,16 +24,16 @@
     "discount_percent": 75
   },
   {
-    "appid": 1049410,
-    "name": "Superliminal",
-    "final_price": 920.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 1272840,
     "name": "Dordogne",
     "final_price": 744.0,
     "discount_percent": 70
+  },
+  {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "final_price": 340.0,
+    "discount_percent": 90
   },
   {
     "appid": 1794680,
