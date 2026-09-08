@@ -58,11 +58,5 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
-  },
-  {
-    "appid": 3079970,
-    "name": "Airport X-Ray Simulator",
-    "final_price": 975.0,
-    "discount_percent": 35
   }
 ]
