@@ -12,16 +12,16 @@
     "discount_percent": 75
   },
   {
-    "appid": 285900,
-    "name": "Gang Beasts",
-    "final_price": 920.0,
-    "discount_percent": 60
+    "appid": 613100,
+    "name": "ハウスフリッパー",
+    "final_price": 280.0,
+    "discount_percent": 90
   },
   {
-    "appid": 361420,
-    "name": "ASTRONEER",
-    "final_price": 875.0,
-    "discount_percent": 75
+    "appid": 1120320,
+    "name": "Builder Simulator",
+    "final_price": 460.0,
+    "discount_percent": 80
   },
   {
     "appid": 1272840,
@@ -52,11 +52,5 @@
     "name": "Brotato",
     "final_price": 348.0,
     "discount_percent": 40
-  },
-  {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
   }
 ]
