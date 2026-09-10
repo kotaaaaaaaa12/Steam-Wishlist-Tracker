@@ -58,5 +58,11 @@
     "name": "農家は Replace() されました",
     "final_price": 960.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "final_price": 552.0,
+    "discount_percent": 40
   }
 ]
