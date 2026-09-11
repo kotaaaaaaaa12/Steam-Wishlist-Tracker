@@ -78,18 +78,6 @@
     "discount_percent": 25
   },
   {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 660.0,
-    "discount_percent": 45
-  },
-  {
-    "appid": 3079970,
-    "name": "Airport X-Ray Simulator",
-    "final_price": 975.0,
-    "discount_percent": 35
-  },
-  {
     "appid": 3949040,
     "name": "RV There Yet?",
     "final_price": 552.0,
