@@ -78,6 +78,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1586860,
+    "name": "Bonesaw",
+    "final_price": 333.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 725.0,
