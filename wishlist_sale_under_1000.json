@@ -120,6 +120,18 @@
     "discount_percent": 45
   },
   {
+    "appid": 3526710,
+    "name": "Everything is Crab: 生物進化ローグライト",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 3651480,
+    "name": "Only Up 3",
+    "final_price": 522.0,
+    "discount_percent": 10
+  },
+  {
     "appid": 3949040,
     "name": "RV There Yet?",
     "final_price": 552.0,
