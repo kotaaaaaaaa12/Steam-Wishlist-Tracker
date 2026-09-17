@@ -6,6 +6,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 447040,
+    "name": "Watch_Dogs® 2",
+    "final_price": 396.0,
+    "discount_percent": 95
+  },
+  {
     "appid": 521890,
     "name": "Hello Neighbor",
     "final_price": 680.0,
@@ -84,9 +90,15 @@
     "discount_percent": 50
   },
   {
+    "appid": 1817490,
+    "name": "Poppy Playtime - Chapter 2",
+    "final_price": 805.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
-    "final_price": 725.0,
+    "final_price": 900.0,
     "discount_percent": 75
   },
   {
@@ -108,16 +120,16 @@
     "discount_percent": 20
   },
   {
+    "appid": 2805260,
+    "name": "POLY IMPULSE",
+    "final_price": 960.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 2842590,
     "name": "Only Up !",
     "final_price": 720.0,
     "discount_percent": 10
-  },
-  {
-    "appid": 3526710,
-    "name": "Everything is Crab: 生物進化ローグライト",
-    "final_price": 960.0,
-    "discount_percent": 20
   },
   {
     "appid": 3651480,
