@@ -102,12 +102,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1942280,
-    "name": "Brotato",
-    "final_price": 348.0,
-    "discount_percent": 40
-  },
-  {
     "appid": 1943950,
     "name": "Escape the Backrooms",
     "final_price": 960.0,
@@ -126,6 +120,12 @@
     "discount_percent": 40
   },
   {
+    "appid": 2827200,
+    "name": "ミメシス",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 2842590,
     "name": "Only Up !",
     "final_price": 720.0,
@@ -138,16 +138,10 @@
     "discount_percent": 45
   },
   {
-    "appid": 3526710,
-    "name": "Everything is Crab: 生物進化ローグライト",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 3651480,
-    "name": "Only Up 3",
-    "final_price": 522.0,
-    "discount_percent": 10
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
   },
   {
     "appid": 3864450,
