@@ -6,12 +6,6 @@
     "discount_percent": 95
   },
   {
-    "appid": 521890,
-    "name": "Hello Neighbor",
-    "final_price": 680.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 613100,
     "name": "ハウスフリッパー",
     "final_price": 280.0,
@@ -78,12 +72,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 1586860,
-    "name": "Bonesaw",
-    "final_price": 333.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 1817490,
     "name": "Poppy Playtime - Chapter 2",
     "final_price": 805.0,
@@ -108,6 +96,24 @@
     "discount_percent": 20
   },
   {
+    "appid": 2348100,
+    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
+    "final_price": 777.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 2653170,
+    "name": "Only Up 2",
+    "final_price": 460.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 2744230,
+    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
+    "final_price": 777.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 2805260,
     "name": "POLY IMPULSE",
     "final_price": 960.0,
@@ -124,6 +130,12 @@
     "name": "Murky Divers",
     "final_price": 660.0,
     "discount_percent": 45
+  },
+  {
+    "appid": 3526710,
+    "name": "Everything is Crab: 生物進化ローグライト",
+    "final_price": 960.0,
+    "discount_percent": 20
   },
   {
     "appid": 3864450,
