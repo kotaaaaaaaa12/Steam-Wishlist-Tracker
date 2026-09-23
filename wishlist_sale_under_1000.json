@@ -120,6 +120,12 @@
     "discount_percent": 45
   },
   {
+    "appid": 3526710,
+    "name": "Everything is Crab: 生物進化ローグライト",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 3864450,
     "name": "Goblin Company",
     "final_price": 900.0,
