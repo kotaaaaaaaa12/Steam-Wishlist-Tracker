@@ -1,9 +1,33 @@
 [
   {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "final_price": 695.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 322500,
     "name": "SUPERHOT",
     "final_price": 749.0,
     "discount_percent": 70
+  },
+  {
+    "appid": 447040,
+    "name": "Watch_Dogs® 2",
+    "final_price": 396.0,
+    "discount_percent": 95
+  },
+  {
+    "appid": 1115050,
+    "name": "Will You Snail?",
+    "final_price": 780.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 1222680,
+    "name": "Need for Speed™ Heat",
+    "final_price": 950.0,
+    "discount_percent": 90
   },
   {
     "appid": 1262540,
@@ -12,10 +36,46 @@
     "discount_percent": 75
   },
   {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "final_price": 500.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 1262580,
+    "name": "Need for Speed™ Payback",
+    "final_price": 806.0,
+    "discount_percent": 74
+  },
+  {
+    "appid": 1262600,
+    "name": "Need for Speed™ Rivals",
+    "final_price": 700.0,
+    "discount_percent": 65
+  },
+  {
     "appid": 1328660,
     "name": "Need for Speed™ Hot Pursuit Remastered",
     "final_price": 620.0,
     "discount_percent": 80
+  },
+  {
+    "appid": 1472560,
+    "name": "俺は魚だよ",
+    "final_price": 410.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 1496590,
+    "name": "Tchia",
+    "final_price": 975.0,
+    "discount_percent": 75
+  },
+  {
+    "appid": 1928690,
+    "name": "Bionic Bay / バイオニックベイ",
+    "final_price": 900.0,
+    "discount_percent": 75
   },
   {
     "appid": 2348100,
@@ -36,10 +96,10 @@
     "discount_percent": 30
   },
   {
-    "appid": 3672720,
-    "name": "Prison Escape Simulator: Dig Out",
-    "final_price": 560.0,
-    "discount_percent": 41
+    "appid": 2805260,
+    "name": "POLY IMPULSE",
+    "final_price": 960.0,
+    "discount_percent": 40
   },
   {
     "appid": 4364730,
