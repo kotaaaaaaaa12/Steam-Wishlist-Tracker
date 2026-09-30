@@ -6,7 +6,7 @@ import time
 API_KEY = os.environ["STEAM_API_KEY"]
 STEAM_ID = "76561199497975097"
 
-# ① Wishlist取得
+# get wishlist
 wishlist_url = "https://api.steampowered.com/IWishlistService/GetWishlist/v1/"
 params = {
     "key": API_KEY,
@@ -17,13 +17,13 @@ r = requests.get(wishlist_url, params=params, timeout=10)
 data = r.json()
 
 if "response" not in data:
-    print("Wishlist取得失敗")
+    print("Failed to get wishlist")
     exit(1)
 
 appids = [item["appid"] for item in data["response"]["items"]]
 result = []
 
-# ② 各ゲームの価格取得
+# get prices
 for appid in appids:
     detail_url = "https://store.steampowered.com/api/appdetails"
     detail_params = {
@@ -35,15 +35,15 @@ for appid in appids:
     try:
         res = requests.get(detail_url, params=detail_params, timeout=10)
         res.raise_for_status()
-        detail = json.loads(res.content.decode('utf-8-sig'))
+        detail = json.loads(res.content.decode("utf-8-sig"))
     except (requests.RequestException, json.JSONDecodeError) as e:
-        print(f"[SKIP] appid={appid} 取得失敗: {e}")
+        print(f"[SKIP] appid={appid} failed to fetch: {e}")
         time.sleep(1)
         continue
 
     app_info = detail.get(str(appid))
     if app_info is None:
-        print(f"[SKIP] appid={appid} レスポンスにキーなし")
+        print(f"[SKIP] appid={appid} missing from response")
         time.sleep(1)
         continue
 
@@ -70,8 +70,8 @@ for appid in appids:
 
     time.sleep(1)
 
-# ③ JSON保存
+# save json
 with open("wishlist_sale_under_1000.json", "w", encoding="utf-8") as f:
     json.dump(result, f, ensure_ascii=False, indent=2)
 
-print("完了:", len(result), "件ヒット")
+print("Done:", len(result), "games found")
