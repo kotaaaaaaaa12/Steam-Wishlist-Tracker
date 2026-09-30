@@ -6,72 +6,74 @@ import time
 API_KEY = os.environ["STEAM_API_KEY"]
 STEAM_ID = "76561199497975097"
 
-# get wishlist
 wishlist_url = "https://api.steampowered.com/IWishlistService/GetWishlist/v1/"
-params = {
-    "key": API_KEY,
-    "steamid": STEAM_ID
-}
 
-r = requests.get(wishlist_url, params=params, timeout=10)
+# get my wishlist
+r = requests.get(
+    wishlist_url,
+    params={"key": API_KEY, "steamid": STEAM_ID},
+    timeout=10
+)
+
 data = r.json()
 
 if "response" not in data:
     print("Failed to get wishlist")
     exit(1)
 
-appids = [item["appid"] for item in data["response"]["items"]]
-result = []
+items = data["response"]["items"]
+results = []
 
-# get prices
-for appid in appids:
-    detail_url = "https://store.steampowered.com/api/appdetails"
-    detail_params = {
-        "appids": appid,
-        "cc": "jp",
-        "l": "japanese"
-    }
+for item in items:
+    appid = item["appid"]
 
     try:
-        res = requests.get(detail_url, params=detail_params, timeout=10)
-        res.raise_for_status()
-        detail = json.loads(res.content.decode("utf-8-sig"))
+        r = requests.get(
+            "https://store.steampowered.com/api/appdetails",
+            params={
+                "appids": appid,
+                "cc": "jp",
+                "l": "japanese"
+            },
+            timeout=10
+        )
+
+        r.raise_for_status()
+        info = json.loads(r.content.decode("utf-8-sig"))
+
     except (requests.RequestException, json.JSONDecodeError) as e:
-        print(f"[SKIP] appid={appid} failed to fetch: {e}")
+        print(f"Failed to get {appid}: {e}")
         time.sleep(1)
         continue
 
-    app_info = detail.get(str(appid))
-    if app_info is None:
-        print(f"[SKIP] appid={appid} missing from response")
+    game = info.get(str(appid))
+
+    if not game or not game.get("success"):
         time.sleep(1)
         continue
 
-    if not app_info.get("success"):
+    game = game.get("data", {})
+    price = game.get("price_overview")
+
+    # free games / games without a price
+    if not price:
         time.sleep(1)
         continue
 
-    app_data = app_info.get("data", {})
-    if "price_overview" not in app_data:
-        time.sleep(1)
-        continue
-
-    price = app_data["price_overview"]
     discount = price["discount_percent"]
     final_price = price["final"] / 100
 
     if discount > 0 and final_price <= 1000:
-        result.append({
+        results.append({
             "appid": appid,
-            "name": app_data["name"],
+            "name": game["name"],
             "final_price": final_price,
             "discount_percent": discount
         })
 
     time.sleep(1)
 
-# save json
 with open("wishlist_sale_under_1000.json", "w", encoding="utf-8") as f:
-    json.dump(result, f, ensure_ascii=False, indent=2)
+    json.dump(results, f, ensure_ascii=False, indent=2)
 
-print("Done:", len(result), "games found")
+print(f"Done. Found {len(results)} games.")
