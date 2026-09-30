@@ -6,12 +6,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 322500,
-    "name": "SUPERHOT",
-    "final_price": 749.0,
-    "discount_percent": 70
-  },
-  {
     "appid": 447040,
     "name": "Watch_Dogs® 2",
     "final_price": 396.0,
@@ -24,22 +18,10 @@
     "discount_percent": 40
   },
   {
-    "appid": 1496590,
-    "name": "Tchia",
-    "final_price": 975.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 900.0,
     "discount_percent": 75
-  },
-  {
-    "appid": 3672720,
-    "name": "Prison Escape Simulator: Dig Out",
-    "final_price": 560.0,
-    "discount_percent": 41
   },
   {
     "appid": 4364730,
