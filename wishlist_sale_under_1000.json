@@ -426,6 +426,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 2842590,
+    "name": "Only Up !",
+    "final_price": 720.0,
+    "discount_percent": 10
+  },
+  {
     "appid": 2844700,
     "name": "ドキドキAI尋問ゲーム 完全版",
     "final_price": 311.0,
@@ -444,16 +450,10 @@
     "discount_percent": 38
   },
   {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 660.0,
-    "discount_percent": 45
-  },
-  {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 408.0,
-    "discount_percent": 32
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 348.0,
+    "discount_percent": 40
   },
   {
     "appid": 3526710,
@@ -478,6 +478,12 @@
     "name": "ティングス・グース",
     "final_price": 616.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3651480,
+    "name": "Only Up 3",
+    "final_price": 522.0,
+    "discount_percent": 10
   },
   {
     "appid": 3672720,
