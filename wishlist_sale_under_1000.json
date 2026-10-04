@@ -450,6 +450,12 @@
     "discount_percent": 38
   },
   {
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 660.0,
+    "discount_percent": 45
+  },
+  {
     "appid": 3167550,
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
@@ -460,30 +466,6 @@
     "name": "Cheaters Cheetah",
     "final_price": 480.0,
     "discount_percent": 60
-  },
-  {
-    "appid": 3445580,
-    "name": "Ambidextro",
-    "final_price": 594.0,
-    "discount_percent": 40
-  },
-  {
-    "appid": 3456800,
-    "name": "岩を砕く | Rock Crusher",
-    "final_price": 560.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 3483400,
-    "name": "ARK: Astraeos",
-    "final_price": 770.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3489420,
-    "name": "They Killed Your Cat",
-    "final_price": 720.0,
-    "discount_percent": 10
   },
   {
     "appid": 3503440,
