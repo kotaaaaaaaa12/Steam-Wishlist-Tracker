@@ -24,6 +24,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 243470,
+    "name": "Watch_Dogs™",
+    "final_price": 278.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 244710,
     "name": "Shelter",
     "final_price": 425.0,
@@ -76,12 +82,6 @@
     "name": "Ultimate Chicken Horse",
     "final_price": 720.0,
     "discount_percent": 55
-  },
-  {
-    "appid": 243470,
-    "name": "Watch_Dogs™",
-    "final_price": 278.0,
-    "discount_percent": 90
   },
   {
     "appid": 521890,
@@ -444,28 +444,10 @@
     "discount_percent": 38
   },
   {
-    "appid": 2963880,
-    "name": "Murky Divers",
-    "final_price": 660.0,
-    "discount_percent": 45
-  },
-  {
-    "appid": 2972680,
-    "name": "ARK Fantastic Tames - Pyromane",
-    "final_price": 257.0,
-    "discount_percent": 67
-  },
-  {
-    "appid": 3489420,
-    "name": "They Killed Your Cat",
-    "final_price": 720.0,
-    "discount_percent": 10
-  },
-  {
-    "appid": 3503440,
-    "name": "Astro Prospector",
-    "final_price": 348.0,
-    "discount_percent": 40
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
   },
   {
     "appid": 3526710,
@@ -592,11 +574,5 @@
     "name": "Market Chain 98",
     "final_price": 724.0,
     "discount_percent": 20
-  },
-  {
-    "appid": 3431300,
-    "name": "Slow Roads",
-    "final_price": 945.0,
-    "discount_percent": 10
   }
 ]
