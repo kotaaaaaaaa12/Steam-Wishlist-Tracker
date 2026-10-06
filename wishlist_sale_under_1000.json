@@ -444,10 +444,16 @@
     "discount_percent": 38
   },
   {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 408.0,
-    "discount_percent": 32
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 720.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 348.0,
+    "discount_percent": 40
   },
   {
     "appid": 3526710,
