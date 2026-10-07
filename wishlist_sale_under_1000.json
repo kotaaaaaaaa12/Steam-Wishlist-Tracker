@@ -444,10 +444,16 @@
     "discount_percent": 38
   },
   {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 720.0,
-    "discount_percent": 40
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 660.0,
+    "discount_percent": 45
+  },
+  {
+    "appid": 2972680,
+    "name": "ARK Fantastic Tames - Pyromane",
+    "final_price": 257.0,
+    "discount_percent": 67
   },
   {
     "appid": 3503440,
