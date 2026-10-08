@@ -444,6 +444,42 @@
     "discount_percent": 38
   },
   {
+    "appid": 2963880,
+    "name": "Murky Divers",
+    "final_price": 660.0,
+    "discount_percent": 45
+  },
+  {
+    "appid": 2972680,
+    "name": "ARK Fantastic Tames - Pyromane",
+    "final_price": 257.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3014150,
+    "name": "1/8192",
+    "final_price": 280.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 3079970,
+    "name": "Airport X-Ray Simulator",
+    "final_price": 900.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3090570,
+    "name": "Time for Bed",
+    "final_price": 520.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
+  },
+  {
     "appid": 3438990,
     "name": "Cheaters Cheetah",
     "final_price": 480.0,
