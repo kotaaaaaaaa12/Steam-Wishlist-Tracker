@@ -42,16 +42,22 @@
     "discount_percent": 50
   },
   {
+    "appid": 2352050,
+    "name": "SECTOR ZERO",
+    "final_price": 376.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 2881650,
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
   },
   {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 319.0,
-    "discount_percent": 45
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 720.0,
+    "discount_percent": 40
   },
   {
     "appid": 3503440,
