@@ -18,6 +18,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 386940,
+    "name": "Ultimate Chicken Horse",
+    "final_price": 720.0,
+    "discount_percent": 55
+  },
+  {
     "appid": 673750,
     "name": "スーパーバニーマン",
     "final_price": 850.0,
@@ -28,6 +34,12 @@
     "name": "Superliminal",
     "final_price": 920.0,
     "discount_percent": 60
+  },
+  {
+    "appid": 1055540,
+    "name": "A Short Hike",
+    "final_price": 451.0,
+    "discount_percent": 45
   },
   {
     "appid": 1336490,
@@ -52,12 +64,6 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
-  },
-  {
-    "appid": 3503440,
-    "name": "Astro Prospector",
-    "final_price": 406.0,
-    "discount_percent": 30
   },
   {
     "appid": 3629780,
