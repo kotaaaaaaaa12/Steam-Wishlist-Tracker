@@ -48,6 +48,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 1509510,
+    "name": "Settlement Survival",
+    "final_price": 575.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 1794680,
     "name": "Vampire Survivors",
     "final_price": 374.0,
@@ -64,6 +70,12 @@
     "name": "SECTOR ZERO",
     "final_price": 376.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 2737070,
+    "name": "Crime Simulator",
+    "final_price": 849.0,
+    "discount_percent": 50
   },
   {
     "appid": 2881650,
@@ -84,9 +96,27 @@
     "discount_percent": 30
   },
   {
+    "appid": 3799100,
+    "name": "SIDE EFFECTS",
+    "final_price": 348.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 276.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 3876710,
     "name": "Pigeon: A Love Story",
     "final_price": 700.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 4754740,
+    "name": "Market Chain 98",
+    "final_price": 724.0,
+    "discount_percent": 20
   }
 ]
