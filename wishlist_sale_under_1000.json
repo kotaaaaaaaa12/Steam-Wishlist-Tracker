@@ -84,6 +84,24 @@
     "discount_percent": 38
   },
   {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 720.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3629780,
+    "name": "ティングス・グース",
+    "final_price": 616.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3799100,
     "name": "SIDE EFFECTS",
     "final_price": 348.0,
