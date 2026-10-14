@@ -42,6 +42,12 @@
     "discount_percent": 45
   },
   {
+    "appid": 1272840,
+    "name": "Dordogne",
+    "final_price": 744.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 1336490,
     "name": "Against the Storm アゲインスト・ザ・ストーム",
     "final_price": 894.0,
@@ -82,12 +88,6 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
-  },
-  {
-    "appid": 3314790,
-    "name": "CloverPit",
-    "final_price": 720.0,
-    "discount_percent": 40
   },
   {
     "appid": 3503440,
