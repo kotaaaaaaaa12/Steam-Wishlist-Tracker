@@ -6,18 +6,6 @@
     "discount_percent": 60
   },
   {
-    "appid": 320140,
-    "name": "Absolute Drift",
-    "final_price": 855.0,
-    "discount_percent": 55
-  },
-  {
-    "appid": 361420,
-    "name": "ASTRONEER",
-    "final_price": 875.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 386940,
     "name": "Ultimate Chicken Horse",
     "final_price": 720.0,
@@ -124,12 +112,6 @@
     "name": "Lushfoil Photography Sim",
     "final_price": 800.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 4378370,
-    "name": "Anomalous Cleaning Detail",
-    "final_price": 800.0,
-    "discount_percent": 20
   },
   {
     "appid": 2276980,
