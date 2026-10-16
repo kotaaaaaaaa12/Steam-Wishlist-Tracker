@@ -60,12 +60,6 @@
     "discount_percent": 50
   },
   {
-    "appid": 2352050,
-    "name": "SECTOR ZERO",
-    "final_price": 376.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 2737070,
     "name": "Crime Simulator",
     "final_price": 849.0,
@@ -76,6 +70,30 @@
     "name": "Content Warning",
     "final_price": 570.0,
     "discount_percent": 38
+  },
+  {
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
+  },
+  {
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 319.0,
+    "discount_percent": 45
+  },
+  {
+    "appid": 3503440,
+    "name": "Astro Prospector",
+    "final_price": 406.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3629780,
+    "name": "ティングス・グース",
+    "final_price": 616.0,
+    "discount_percent": 30
   },
   {
     "appid": 3799100,
