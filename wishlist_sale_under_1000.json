@@ -72,18 +72,6 @@
     "discount_percent": 38
   },
   {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
-  },
-  {
-    "appid": 3244220,
-    "name": "A Game About Digging A Hole™",
-    "final_price": 319.0,
-    "discount_percent": 45
-  },
-  {
     "appid": 3503440,
     "name": "Astro Prospector",
     "final_price": 406.0,
@@ -142,5 +130,11 @@
     "name": "Screencheat",
     "final_price": 340.0,
     "discount_percent": 80
+  },
+  {
+    "appid": 604240,
+    "name": "Shotgun Farmers",
+    "final_price": 480.0,
+    "discount_percent": 60
   }
 ]
