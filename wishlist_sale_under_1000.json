@@ -12,6 +12,12 @@
     "discount_percent": 80
   },
   {
+    "appid": 381210,
+    "name": "デッドバイデイライト",
+    "final_price": 999.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 604240,
     "name": "Shotgun Farmers",
     "final_price": 480.0,
@@ -54,6 +60,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1659040,
+    "name": "HITMAN World of Assassination",
+    "final_price": 340.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 1749860,
     "name": "Lushfoil Photography Sim",
     "final_price": 800.0,
@@ -90,10 +102,10 @@
     "discount_percent": 25
   },
   {
-    "appid": 2737070,
-    "name": "Crime Simulator",
-    "final_price": 849.0,
-    "discount_percent": 50
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
   },
   {
     "appid": 3244220,
@@ -108,6 +120,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3614130,
+    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
+    "final_price": 632.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 3629780,
     "name": "ティングス・グース",
     "final_price": 616.0,
@@ -120,12 +138,6 @@
     "discount_percent": 40
   },
   {
-    "appid": 3833430,
-    "name": "Red Passport: Ticket to Russia",
-    "final_price": 276.0,
-    "discount_percent": 70
-  },
-  {
     "appid": 3876710,
     "name": "Pigeon: A Love Story",
     "final_price": 700.0,
@@ -136,11 +148,5 @@
     "name": "Shady job",
     "final_price": 588.0,
     "discount_percent": 40
-  },
-  {
-    "appid": 4754740,
-    "name": "Market Chain 98",
-    "final_price": 724.0,
-    "discount_percent": 20
   }
 ]
