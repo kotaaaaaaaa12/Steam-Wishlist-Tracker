@@ -6,10 +6,28 @@
     "discount_percent": 60
   },
   {
+    "appid": 301970,
+    "name": "Screencheat",
+    "final_price": 340.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 604240,
+    "name": "Shotgun Farmers",
+    "final_price": 480.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 673750,
     "name": "スーパーバニーマン",
     "final_price": 850.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 870780,
+    "name": "Control Ultimate Edition",
+    "final_price": 675.0,
+    "discount_percent": 85
   },
   {
     "appid": 1049410,
@@ -36,6 +54,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 1749860,
+    "name": "Lushfoil Photography Sim",
+    "final_price": 800.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 1794680,
     "name": "Vampire Survivors",
     "final_price": 374.0,
@@ -54,6 +78,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 2276980,
+    "name": "FACEMINER",
+    "final_price": 368.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 2708450,
     "name": "Oh Deer",
     "final_price": 660.0,
@@ -66,10 +96,10 @@
     "discount_percent": 50
   },
   {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 319.0,
+    "discount_percent": 45
   },
   {
     "appid": 3503440,
@@ -102,45 +132,15 @@
     "discount_percent": 30
   },
   {
-    "appid": 4754740,
-    "name": "Market Chain 98",
-    "final_price": 724.0,
-    "discount_percent": 20
-  },
-  {
-    "appid": 1749860,
-    "name": "Lushfoil Photography Sim",
-    "final_price": 800.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 4190710,
     "name": "Shady job",
     "final_price": 588.0,
     "discount_percent": 40
   },
   {
-    "appid": 2276980,
-    "name": "FACEMINER",
-    "final_price": 368.0,
-    "discount_percent": 60
-  },
-  {
-    "appid": 870780,
-    "name": "Control Ultimate Edition",
-    "final_price": 675.0,
-    "discount_percent": 85
-  },
-  {
-    "appid": 301970,
-    "name": "Screencheat",
-    "final_price": 340.0,
-    "discount_percent": 80
-  },
-  {
-    "appid": 604240,
-    "name": "Shotgun Farmers",
-    "final_price": 480.0,
-    "discount_percent": 60
+    "appid": 4754740,
+    "name": "Market Chain 98",
+    "final_price": 724.0,
+    "discount_percent": 20
   }
 ]
