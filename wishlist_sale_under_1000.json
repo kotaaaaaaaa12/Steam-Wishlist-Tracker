@@ -102,6 +102,12 @@
     "discount_percent": 25
   },
   {
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 3244220,
     "name": "A Game About Digging A Hole™",
     "final_price": 319.0,
@@ -136,6 +142,12 @@
     "name": "Pigeon: A Love Story",
     "final_price": 700.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 4170200,
+    "name": "Data Center",
+    "final_price": 862.0,
+    "discount_percent": 25
   },
   {
     "appid": 4190710,
