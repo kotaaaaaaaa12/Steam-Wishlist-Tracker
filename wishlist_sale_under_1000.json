@@ -102,6 +102,12 @@
     "discount_percent": 25
   },
   {
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 3244220,
     "name": "A Game About Digging A Hole™",
     "final_price": 319.0,
