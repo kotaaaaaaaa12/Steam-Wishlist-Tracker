@@ -102,6 +102,12 @@
     "discount_percent": 25
   },
   {
+    "appid": 3244220,
+    "name": "A Game About Digging A Hole™",
+    "final_price": 319.0,
+    "discount_percent": 45
+  },
+  {
     "appid": 3503440,
     "name": "Astro Prospector",
     "final_price": 406.0,
