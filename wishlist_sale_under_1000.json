@@ -1,11 +1,5 @@
 [
   {
-    "appid": 285900,
-    "name": "Gang Beasts",
-    "final_price": 920.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 301970,
     "name": "Screencheat",
     "final_price": 340.0,
@@ -18,22 +12,22 @@
     "discount_percent": 60
   },
   {
+    "appid": 600480,
+    "name": "Megaquarium",
+    "final_price": 945.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 604240,
     "name": "Shotgun Farmers",
     "final_price": 480.0,
     "discount_percent": 60
   },
   {
-    "appid": 673750,
-    "name": "スーパーバニーマン",
-    "final_price": 850.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 870780,
-    "name": "Control Ultimate Edition",
-    "final_price": 675.0,
-    "discount_percent": 85
+    "appid": 613100,
+    "name": "ハウスフリッパー",
+    "final_price": 224.0,
+    "discount_percent": 92
   },
   {
     "appid": 1049410,
@@ -42,15 +36,15 @@
     "discount_percent": 60
   },
   {
-    "appid": 1272840,
-    "name": "Dordogne",
-    "final_price": 744.0,
+    "appid": 1120320,
+    "name": "Builder Simulator",
+    "final_price": 690.0,
     "discount_percent": 70
   },
   {
-    "appid": 1336490,
-    "name": "Against the Storm アゲインスト・ザ・ストーム",
-    "final_price": 894.0,
+    "appid": 1272840,
+    "name": "Dordogne",
+    "final_price": 744.0,
     "discount_percent": 70
   },
   {
@@ -66,16 +60,16 @@
     "discount_percent": 90
   },
   {
-    "appid": 1749860,
-    "name": "Lushfoil Photography Sim",
-    "final_price": 800.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 1794680,
     "name": "Vampire Survivors",
     "final_price": 374.0,
     "discount_percent": 25
+  },
+  {
+    "appid": 1926520,
+    "name": "Ambulance Life: A Paramedic Simulator",
+    "final_price": 850.0,
+    "discount_percent": 75
   },
   {
     "appid": 1928690,
@@ -84,28 +78,10 @@
     "discount_percent": 75
   },
   {
-    "appid": 1999360,
-    "name": "Placid Plastic Duck Simulator",
-    "final_price": 155.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 2276980,
-    "name": "FACEMINER",
-    "final_price": 368.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 2708450,
     "name": "Oh Deer",
     "final_price": 660.0,
     "discount_percent": 25
-  },
-  {
-    "appid": 3503440,
-    "name": "Astro Prospector",
-    "final_price": 406.0,
-    "discount_percent": 30
   },
   {
     "appid": 3614130,
@@ -114,22 +90,10 @@
     "discount_percent": 20
   },
   {
-    "appid": 3629780,
-    "name": "ティングス・グース",
-    "final_price": 616.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 3799100,
     "name": "SIDE EFFECTS",
     "final_price": 348.0,
     "discount_percent": 40
-  },
-  {
-    "appid": 3876710,
-    "name": "Pigeon: A Love Story",
-    "final_price": 700.0,
-    "discount_percent": 30
   },
   {
     "appid": 4170200,
