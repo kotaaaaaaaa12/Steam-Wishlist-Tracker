@@ -18,22 +18,10 @@
     "discount_percent": 70
   },
   {
-    "appid": 604240,
-    "name": "Shotgun Farmers",
-    "final_price": 480.0,
-    "discount_percent": 60
-  },
-  {
     "appid": 613100,
     "name": "ハウスフリッパー",
     "final_price": 224.0,
     "discount_percent": 92
-  },
-  {
-    "appid": 1049410,
-    "name": "Superliminal",
-    "final_price": 920.0,
-    "discount_percent": 60
   },
   {
     "appid": 1120320,
