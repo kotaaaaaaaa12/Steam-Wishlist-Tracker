@@ -1,11 +1,5 @@
 [
   {
-    "appid": 301970,
-    "name": "Screencheat",
-    "final_price": 340.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 381210,
     "name": "デッドバイデイライト",
     "final_price": 999.0,
@@ -27,12 +21,6 @@
     "appid": 1120320,
     "name": "Builder Simulator",
     "final_price": 690.0,
-    "discount_percent": 70
-  },
-  {
-    "appid": 1272840,
-    "name": "Dordogne",
-    "final_price": 744.0,
     "discount_percent": 70
   },
   {
@@ -66,16 +54,16 @@
     "discount_percent": 75
   },
   {
-    "appid": 2708450,
-    "name": "Oh Deer",
-    "final_price": 660.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 3614130,
     "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
     "final_price": 632.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 3651480,
+    "name": "Only Up 3",
+    "final_price": 522.0,
+    "discount_percent": 10
   },
   {
     "appid": 3799100,
