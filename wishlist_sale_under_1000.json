@@ -54,6 +54,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 2842590,
+    "name": "Only Up !",
+    "final_price": 720.0,
+    "discount_percent": 10
+  },
+  {
     "appid": 3614130,
     "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
     "final_price": 632.0,
