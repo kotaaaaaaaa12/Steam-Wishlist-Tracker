@@ -36,12 +36,6 @@
     "discount_percent": 90
   },
   {
-    "appid": 1794680,
-    "name": "Vampire Survivors",
-    "final_price": 374.0,
-    "discount_percent": 25
-  },
-  {
     "appid": 1926520,
     "name": "Ambulance Life: A Paramedic Simulator",
     "final_price": 850.0,
@@ -52,6 +46,24 @@
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 725.0,
     "discount_percent": 75
+  },
+  {
+    "appid": 3282470,
+    "name": "ARK Fantastic Tames - Dreadmare",
+    "final_price": 243.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3483400,
+    "name": "ARK: Astraeos",
+    "final_price": 770.0,
+    "discount_percent": 67
+  },
+  {
+    "appid": 3571730,
+    "name": "ARK Animated Series 109-Costumes Pack",
+    "final_price": 736.0,
+    "discount_percent": 67
   },
   {
     "appid": 3614130,
@@ -82,5 +94,11 @@
     "name": "Shady job",
     "final_price": 588.0,
     "discount_percent": 40
+  },
+  {
+    "appid": 4421010,
+    "name": "Bills Must Be Paid",
+    "final_price": 724.0,
+    "discount_percent": 20
   }
 ]
