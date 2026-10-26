@@ -6,6 +6,12 @@
     "discount_percent": 60
   },
   {
+    "appid": 521890,
+    "name": "Hello Neighbor",
+    "final_price": 680.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 600480,
     "name": "Megaquarium",
     "final_price": 945.0,
@@ -18,22 +24,46 @@
     "discount_percent": 92
   },
   {
+    "appid": 770490,
+    "name": "Death in the Water",
+    "final_price": 175.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 1092790,
+    "name": "Inscryption",
+    "final_price": 820.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 1120320,
     "name": "Builder Simulator",
     "final_price": 690.0,
     "discount_percent": 70
   },
   {
+    "appid": 1338840,
+    "name": "Death in the Water 2",
+    "final_price": 408.0,
+    "discount_percent": 76
+  },
+  {
     "appid": 1509510,
     "name": "Settlement Survival",
-    "final_price": 575.0,
+    "final_price": 623.0,
     "discount_percent": 75
   },
   {
-    "appid": 1659040,
-    "name": "HITMAN World of Assassination",
-    "final_price": 340.0,
-    "discount_percent": 90
+    "appid": 1586860,
+    "name": "Bonesaw",
+    "final_price": 226.0,
+    "discount_percent": 66
+  },
+  {
+    "appid": 1817490,
+    "name": "Poppy Playtime - Chapter 2",
+    "final_price": 805.0,
+    "discount_percent": 30
   },
   {
     "appid": 1926520,
@@ -48,16 +78,52 @@
     "discount_percent": 75
   },
   {
+    "appid": 1943950,
+    "name": "Escape the Backrooms",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 2075070,
+    "name": "KinitoPET",
+    "final_price": 350.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 2300840,
+    "name": "Subliminal",
+    "final_price": 960.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 2827200,
+    "name": "ミメシス",
+    "final_price": 480.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 2842590,
     "name": "Only Up !",
     "final_price": 720.0,
     "discount_percent": 10
   },
   {
+    "appid": 3255540,
+    "name": "These Darker Tides",
+    "final_price": 552.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 3282470,
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
     "discount_percent": 67
+  },
+  {
+    "appid": 3369390,
+    "name": "ペンギンホテル2 -スネークペンギンの野望-",
+    "final_price": 108.0,
+    "discount_percent": 91
   },
   {
     "appid": 3483400,
@@ -72,22 +138,22 @@
     "discount_percent": 67
   },
   {
-    "appid": 3614130,
-    "name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
-    "final_price": 632.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 3651480,
     "name": "Only Up 3",
     "final_price": 522.0,
     "discount_percent": 10
   },
   {
-    "appid": 3799100,
-    "name": "SIDE EFFECTS",
-    "final_price": 348.0,
-    "discount_percent": 40
+    "appid": 3809110,
+    "name": "日本事故物件監視協会 -Japan Stigmatized Property-",
+    "final_price": 608.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 4108000,
+    "name": "Machine Party",
+    "final_price": 712.0,
+    "discount_percent": 25
   },
   {
     "appid": 4170200,
@@ -102,9 +168,39 @@
     "discount_percent": 40
   },
   {
+    "appid": 4193270,
+    "name": "日本事故物件監視協会2 -Japan Stigmatized Property-",
+    "final_price": 646.0,
+    "discount_percent": 15
+  },
+  {
     "appid": 4421010,
     "name": "Bills Must Be Paid",
     "final_price": 724.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 4429870,
+    "name": "There's Nothing Down There",
+    "final_price": 211.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 4611990,
+    "name": "日本事故物件監視協会3 -Japan Stigmatized Property-",
+    "final_price": 792.0,
+    "discount_percent": 10
+  },
+  {
+    "appid": 4634560,
+    "name": "絨毯を洗うゲーム",
+    "final_price": 560.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 4652340,
+    "name": "Cloudrooms",
+    "final_price": 371.0,
+    "discount_percent": 30
   }
 ]
