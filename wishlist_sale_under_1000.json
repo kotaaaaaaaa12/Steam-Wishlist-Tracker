@@ -48,6 +48,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 2842590,
+    "name": "Only Up !",
+    "final_price": 720.0,
+    "discount_percent": 10
+  },
+  {
     "appid": 3282470,
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
