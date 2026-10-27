@@ -48,6 +48,12 @@
     "discount_percent": 76
   },
   {
+    "appid": 1496590,
+    "name": "Tchia",
+    "final_price": 340.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 1509510,
     "name": "Settlement Survival",
     "final_price": 623.0,
@@ -94,6 +100,18 @@
     "name": "Subliminal",
     "final_price": 960.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 2827200,
+    "name": "ミメシス",
+    "final_price": 480.0,
+    "discount_percent": 60
+  },
+  {
+    "appid": 3255540,
+    "name": "These Darker Tides",
+    "final_price": 552.0,
+    "discount_percent": 40
   },
   {
     "appid": 3282470,
