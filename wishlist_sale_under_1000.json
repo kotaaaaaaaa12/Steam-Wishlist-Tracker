@@ -96,24 +96,6 @@
     "discount_percent": 20
   },
   {
-    "appid": 2827200,
-    "name": "ミメシス",
-    "final_price": 480.0,
-    "discount_percent": 60
-  },
-  {
-    "appid": 2842590,
-    "name": "Only Up !",
-    "final_price": 720.0,
-    "discount_percent": 10
-  },
-  {
-    "appid": 3255540,
-    "name": "These Darker Tides",
-    "final_price": 552.0,
-    "discount_percent": 40
-  },
-  {
     "appid": 3282470,
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
