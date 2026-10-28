@@ -102,18 +102,6 @@
     "discount_percent": 20
   },
   {
-    "appid": 2842590,
-    "name": "Only Up !",
-    "final_price": 720.0,
-    "discount_percent": 10
-  },
-  {
-    "appid": 3090570,
-    "name": "Time for Bed",
-    "final_price": 455.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 3255540,
     "name": "These Darker Tides",
     "final_price": 552.0,
