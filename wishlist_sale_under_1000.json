@@ -48,6 +48,12 @@
     "discount_percent": 76
   },
   {
+    "appid": 1472560,
+    "name": "俺は魚だよ",
+    "final_price": 410.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 1496590,
     "name": "Tchia",
     "final_price": 340.0,
@@ -142,6 +148,12 @@
     "name": "日本事故物件監視協会 -Japan Stigmatized Property-",
     "final_price": 608.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "final_price": 552.0,
+    "discount_percent": 40
   },
   {
     "appid": 4108000,
