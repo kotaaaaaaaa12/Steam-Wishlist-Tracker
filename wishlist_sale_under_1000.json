@@ -114,6 +114,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 3369390,
+    "name": "ペンギンホテル2 -スネークペンギンの野望-",
+    "final_price": 108.0,
+    "discount_percent": 91
+  },
+  {
     "appid": 3483400,
     "name": "ARK: Astraeos",
     "final_price": 770.0,
@@ -130,6 +136,12 @@
     "name": "Only Up 3",
     "final_price": 522.0,
     "discount_percent": 10
+  },
+  {
+    "appid": 3672720,
+    "name": "Prison Escape Simulator: Dig Out",
+    "final_price": 541.0,
+    "discount_percent": 43
   },
   {
     "appid": 3809110,
