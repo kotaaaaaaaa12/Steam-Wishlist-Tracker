@@ -92,7 +92,7 @@
   {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
-    "final_price": 725.0,
+    "final_price": 900.0,
     "discount_percent": 75
   },
   {
@@ -126,6 +126,12 @@
     "discount_percent": 67
   },
   {
+    "appid": 3363270,
+    "name": "ねこねこ釣り日記",
+    "final_price": 450.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 3369390,
     "name": "ペンギンホテル2 -スネークペンギンの野望-",
     "final_price": 108.0,
@@ -142,12 +148,6 @@
     "name": "ARK Animated Series 109-Costumes Pack",
     "final_price": 736.0,
     "discount_percent": 67
-  },
-  {
-    "appid": 3651480,
-    "name": "Only Up 3",
-    "final_price": 522.0,
-    "discount_percent": 10
   },
   {
     "appid": 3672720,
