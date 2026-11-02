@@ -114,24 +114,6 @@
     "discount_percent": 60
   },
   {
-    "appid": 2857000,
-    "name": "refarm",
-    "final_price": 352.0,
-    "discount_percent": 25
-  },
-  {
-    "appid": 3255540,
-    "name": "These Darker Tides",
-    "final_price": 552.0,
-    "discount_percent": 40
-  },
-  {
-    "appid": 3282470,
-    "name": "ARK Fantastic Tames - Dreadmare",
-    "final_price": 243.0,
-    "discount_percent": 67
-  },
-  {
     "appid": 3363270,
     "name": "ねこねこ釣り日記",
     "final_price": 450.0,
