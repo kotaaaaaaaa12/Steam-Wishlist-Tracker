@@ -90,6 +90,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 2744230,
+    "name": "どこかで見た”あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？2",
+    "final_price": 777.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3282470,
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
@@ -130,18 +136,6 @@
     "name": "Machine Party",
     "final_price": 712.0,
     "discount_percent": 25
-  },
-  {
-    "appid": 4170200,
-    "name": "Data Center",
-    "final_price": 862.0,
-    "discount_percent": 25
-  },
-  {
-    "appid": 4421010,
-    "name": "Bills Must Be Paid",
-    "final_price": 724.0,
-    "discount_percent": 20
   },
   {
     "appid": 5313470,
