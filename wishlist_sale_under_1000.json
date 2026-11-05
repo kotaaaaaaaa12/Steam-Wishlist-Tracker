@@ -138,6 +138,12 @@
     "discount_percent": 25
   },
   {
+    "appid": 4268460,
+    "name": "ShoreTiles",
+    "final_price": 724.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 5313470,
     "name": "Figure Me Out",
     "final_price": 632.0,
