@@ -24,6 +24,12 @@
     "discount_percent": 60
   },
   {
+    "appid": 1344440,
+    "name": "Spaceflux",
+    "final_price": 464.0,
+    "discount_percent": 20
+  },
+  {
     "appid": 1472560,
     "name": "俺は魚だよ",
     "final_price": 410.0,
@@ -78,6 +84,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
+  },
+  {
     "appid": 3282470,
     "name": "ARK Fantastic Tames - Dreadmare",
     "final_price": 243.0,
@@ -108,10 +120,22 @@
     "discount_percent": 43
   },
   {
+    "appid": 3864450,
+    "name": "Goblin Company",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 4268460,
     "name": "ShoreTiles",
     "final_price": 724.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 4784510,
+    "name": "Leviathan: Rhino",
+    "final_price": 595.0,
+    "discount_percent": 15
   },
   {
     "appid": 5313470,
