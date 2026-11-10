@@ -1,5 +1,11 @@
 [
   {
+    "appid": 227300,
+    "name": "Euro Truck Simulator 2",
+    "final_price": 749.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 420530,
     "name": "OneShot",
     "final_price": 598.0,
@@ -36,12 +42,6 @@
     "discount_percent": 80
   },
   {
-    "appid": 1496590,
-    "name": "Tchia",
-    "final_price": 340.0,
-    "discount_percent": 90
-  },
-  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 900.0,
@@ -58,18 +58,6 @@
     "name": "農家は Replace() されました",
     "final_price": 840.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3166810,
-    "name": "Insider Trading",
-    "final_price": 750.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 3167550,
-    "name": "デスクトップ小動物牧場",
-    "final_price": 408.0,
-    "discount_percent": 32
   },
   {
     "appid": 3363270,
