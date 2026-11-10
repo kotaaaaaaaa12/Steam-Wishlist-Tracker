@@ -6,22 +6,22 @@
     "discount_percent": 40
   },
   {
+    "appid": 574560,
+    "name": "Dude, Stop",
+    "final_price": 608.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 728880,
     "name": "Overcooked! 2",
     "final_price": 873.0,
     "discount_percent": 66
   },
   {
-    "appid": 972660,
-    "name": "Spiritfarer®: Farewellエディション",
-    "final_price": 385.0,
-    "discount_percent": 90
-  },
-  {
-    "appid": 1092790,
-    "name": "Inscryption",
-    "final_price": 820.0,
-    "discount_percent": 60
+    "appid": 1142810,
+    "name": "トースターボール",
+    "final_price": 360.0,
+    "discount_percent": 70
   },
   {
     "appid": 1344440,
@@ -42,18 +42,6 @@
     "discount_percent": 90
   },
   {
-    "appid": 1509510,
-    "name": "Settlement Survival",
-    "final_price": 623.0,
-    "discount_percent": 75
-  },
-  {
-    "appid": 1817490,
-    "name": "Poppy Playtime - Chapter 2",
-    "final_price": 805.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 900.0,
@@ -66,21 +54,9 @@
     "discount_percent": 50
   },
   {
-    "appid": 1943950,
-    "name": "Escape the Backrooms",
-    "final_price": 960.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 2060160,
     "name": "農家は Replace() されました",
     "final_price": 840.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 2348100,
-    "name": "どこかで見た“あのゲー”ムたちを棒人間でつくってみたけれど、果たしてあなたはクリアできるのか？",
-    "final_price": 777.0,
     "discount_percent": 30
   },
   {
@@ -100,6 +76,12 @@
     "name": "ねこねこ釣り日記",
     "final_price": 450.0,
     "discount_percent": 50
+  },
+  {
+    "appid": 3445580,
+    "name": "Ambidextro",
+    "final_price": 693.0,
+    "discount_percent": 30
   },
   {
     "appid": 3672720,
@@ -130,11 +112,5 @@
     "name": "Leviathan: Rhino",
     "final_price": 595.0,
     "discount_percent": 15
-  },
-  {
-    "appid": 5313470,
-    "name": "Figure Me Out",
-    "final_price": 632.0,
-    "discount_percent": 20
   }
 ]
