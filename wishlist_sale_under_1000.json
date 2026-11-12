@@ -36,12 +36,6 @@
     "discount_percent": 20
   },
   {
-    "appid": 1472560,
-    "name": "俺は魚だよ",
-    "final_price": 410.0,
-    "discount_percent": 80
-  },
-  {
     "appid": 1496590,
     "name": "Tchia",
     "final_price": 390.0,
@@ -78,6 +72,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3166810,
+    "name": "Insider Trading",
+    "final_price": 750.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 3167550,
     "name": "デスクトップ小動物牧場",
     "final_price": 408.0,
@@ -94,6 +94,12 @@
     "name": "Ambidextro",
     "final_price": 693.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3547270,
+    "name": "Worming from Home",
+    "final_price": 840.0,
+    "discount_percent": 20
   },
   {
     "appid": 3672720,
