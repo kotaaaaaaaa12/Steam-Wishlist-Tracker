@@ -42,6 +42,18 @@
     "discount_percent": 80
   },
   {
+    "appid": 1496590,
+    "name": "Tchia",
+    "final_price": 390.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1509960,
+    "name": "PICO PARK",
+    "final_price": 364.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 1928690,
     "name": "Bionic Bay / バイオニックベイ",
     "final_price": 900.0,
@@ -58,6 +70,18 @@
     "name": "農家は Replace() されました",
     "final_price": 840.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 2644470,
+    "name": "PICO PARK 2",
+    "final_price": 686.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3166810,
+    "name": "Insider Trading",
+    "final_price": 750.0,
+    "discount_percent": 50
   },
   {
     "appid": 3167550,
