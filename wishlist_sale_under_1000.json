@@ -6,12 +6,6 @@
     "discount_percent": 75
   },
   {
-    "appid": 420530,
-    "name": "OneShot",
-    "final_price": 598.0,
-    "discount_percent": 40
-  },
-  {
     "appid": 574560,
     "name": "Dude, Stop",
     "final_price": 608.0,
@@ -70,12 +64,6 @@
     "name": "PICO PARK 2",
     "final_price": 686.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 3166810,
-    "name": "Insider Trading",
-    "final_price": 750.0,
-    "discount_percent": 50
   },
   {
     "appid": 3167550,
