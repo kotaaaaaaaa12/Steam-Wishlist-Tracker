@@ -24,12 +24,6 @@
     "discount_percent": 70
   },
   {
-    "appid": 1344440,
-    "name": "Spaceflux",
-    "final_price": 464.0,
-    "discount_percent": 20
-  },
-  {
     "appid": 1496590,
     "name": "Tchia",
     "final_price": 390.0,
@@ -66,6 +60,18 @@
     "discount_percent": 30
   },
   {
+    "appid": 3166810,
+    "name": "Insider Trading",
+    "final_price": 750.0,
+    "discount_percent": 50
+  },
+  {
+    "appid": 3167550,
+    "name": "デスクトップ小動物牧場",
+    "final_price": 408.0,
+    "discount_percent": 32
+  },
+  {
     "appid": 3363270,
     "name": "ねこねこ釣り日記",
     "final_price": 450.0,
@@ -82,18 +88,6 @@
     "name": "Worming from Home",
     "final_price": 840.0,
     "discount_percent": 20
-  },
-  {
-    "appid": 3672720,
-    "name": "Prison Escape Simulator: Dig Out",
-    "final_price": 541.0,
-    "discount_percent": 43
-  },
-  {
-    "appid": 3864450,
-    "name": "Goblin Company",
-    "final_price": 840.0,
-    "discount_percent": 30
   },
   {
     "appid": 4364730,
