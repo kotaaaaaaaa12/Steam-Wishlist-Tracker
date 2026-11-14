@@ -6,6 +6,12 @@
     "discount_percent": 75
   },
   {
+    "appid": 320140,
+    "name": "Absolute Drift",
+    "final_price": 950.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 574560,
     "name": "Dude, Stop",
     "final_price": 608.0,
@@ -36,12 +42,6 @@
     "discount_percent": 30
   },
   {
-    "appid": 1928690,
-    "name": "Bionic Bay / バイオニックベイ",
-    "final_price": 900.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 1942280,
     "name": "Brotato",
     "final_price": 290.0,
@@ -60,10 +60,10 @@
     "discount_percent": 30
   },
   {
-    "appid": 3363270,
-    "name": "ねこねこ釣り日記",
-    "final_price": 450.0,
-    "discount_percent": 50
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 840.0,
+    "discount_percent": 30
   },
   {
     "appid": 3445580,
@@ -88,5 +88,11 @@
     "name": "Leviathan: Rhino",
     "final_price": 595.0,
     "discount_percent": 15
+  },
+  {
+    "appid": 4832970,
+    "name": "What the Buck?!",
+    "final_price": 633.0,
+    "discount_percent": 30
   }
 ]
