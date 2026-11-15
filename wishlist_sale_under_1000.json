@@ -60,6 +60,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3314790,
+    "name": "CloverPit",
+    "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3445580,
     "name": "Ambidextro",
     "final_price": 693.0,
