@@ -54,6 +54,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 3166810,
+    "name": "Insider Trading",
+    "final_price": 750.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 3314790,
     "name": "CloverPit",
     "final_price": 840.0,
@@ -93,6 +99,12 @@
     "appid": 4364730,
     "name": "IGTAP: どこ見ても足",
     "final_price": 799.0,
+    "discount_percent": 20
+  },
+  {
+    "appid": 4754740,
+    "name": "Market Chain 98",
+    "final_price": 724.0,
     "discount_percent": 20
   },
   {
