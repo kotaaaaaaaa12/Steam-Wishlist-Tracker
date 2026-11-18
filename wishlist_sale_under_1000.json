@@ -84,6 +84,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 3986100,
+    "name": "ゲームショップ斜陽",
+    "final_price": 966.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 4171850,
     "name": "Trees Hate You",
     "final_price": 1000.0,
