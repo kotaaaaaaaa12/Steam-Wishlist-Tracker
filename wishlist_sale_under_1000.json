@@ -54,12 +54,6 @@
     "discount_percent": 30
   },
   {
-    "appid": 3166810,
-    "name": "Insider Trading",
-    "final_price": 750.0,
-    "discount_percent": 50
-  },
-  {
     "appid": 3314790,
     "name": "CloverPit",
     "final_price": 840.0,
