@@ -6,6 +6,18 @@
     "discount_percent": 75
   },
   {
+    "appid": 244710,
+    "name": "Shelter",
+    "final_price": 510.0,
+    "discount_percent": 70
+  },
+  {
+    "appid": 275100,
+    "name": "Shelter 2",
+    "final_price": 840.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 320140,
     "name": "Absolute Drift",
     "final_price": 950.0,
@@ -96,12 +108,6 @@
     "discount_percent": 30
   },
   {
-    "appid": 2698420,
-    "name": "Restore Your Island",
-    "final_price": 910.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 3314790,
     "name": "CloverPit",
     "final_price": 840.0,
@@ -148,12 +154,6 @@
     "name": "Market Chain 98",
     "final_price": 724.0,
     "discount_percent": 20
-  },
-  {
-    "appid": 4784510,
-    "name": "Leviathan: Rhino",
-    "final_price": 595.0,
-    "discount_percent": 15
   },
   {
     "appid": 4832970,
