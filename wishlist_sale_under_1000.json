@@ -18,10 +18,40 @@
     "discount_percent": 55
   },
   {
-    "appid": 728880,
-    "name": "Overcooked! 2",
-    "final_price": 873.0,
-    "discount_percent": 66
+    "appid": 1222680,
+    "name": "Need for Speed™ Heat",
+    "final_price": 475.0,
+    "discount_percent": 95
+  },
+  {
+    "appid": 1262540,
+    "name": "Need for Speed™",
+    "final_price": 390.0,
+    "discount_percent": 87
+  },
+  {
+    "appid": 1262560,
+    "name": "Need for Speed™ Most Wanted",
+    "final_price": 400.0,
+    "discount_percent": 80
+  },
+  {
+    "appid": 1262580,
+    "name": "Need for Speed™ Payback",
+    "final_price": 465.0,
+    "discount_percent": 85
+  },
+  {
+    "appid": 1262600,
+    "name": "Need for Speed™ Rivals",
+    "final_price": 440.0,
+    "discount_percent": 78
+  },
+  {
+    "appid": 1328660,
+    "name": "Need for Speed™ Hot Pursuit Remastered",
+    "final_price": 465.0,
+    "discount_percent": 85
   },
   {
     "appid": 1496590,
@@ -34,6 +64,18 @@
     "name": "PICO PARK",
     "final_price": 364.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 1693980,
+    "name": "Dead Space",
+    "final_price": 870.0,
+    "discount_percent": 90
+  },
+  {
+    "appid": 1846380,
+    "name": "Need for Speed™ Unbound",
+    "final_price": 970.0,
+    "discount_percent": 90
   },
   {
     "appid": 2198800,
