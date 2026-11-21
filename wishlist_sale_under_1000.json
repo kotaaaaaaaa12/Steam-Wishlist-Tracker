@@ -108,6 +108,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 2698420,
+    "name": "Restore Your Island",
+    "final_price": 910.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3314790,
     "name": "CloverPit",
     "final_price": 840.0,
