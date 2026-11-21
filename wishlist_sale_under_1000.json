@@ -18,6 +18,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 285900,
+    "name": "Gang Beasts",
+    "final_price": 920.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 320140,
     "name": "Absolute Drift",
     "final_price": 950.0,
@@ -66,6 +72,12 @@
     "discount_percent": 85
   },
   {
+    "appid": 1336490,
+    "name": "Against the Storm アゲインスト・ザ・ストーム",
+    "final_price": 596.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 1496590,
     "name": "Tchia",
     "final_price": 390.0,
@@ -82,6 +94,12 @@
     "name": "Dead Space",
     "final_price": 870.0,
     "discount_percent": 90
+  },
+  {
+    "appid": 1749860,
+    "name": "Lushfoil Photography Sim",
+    "final_price": 800.0,
+    "discount_percent": 50
   },
   {
     "appid": 1846380,
@@ -112,6 +130,12 @@
     "name": "Restore Your Island",
     "final_price": 910.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 3168600,
+    "name": "Among Us 3D",
+    "final_price": 660.0,
+    "discount_percent": 40
   },
   {
     "appid": 3314790,
