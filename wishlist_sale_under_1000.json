@@ -48,6 +48,12 @@
     "discount_percent": 60
   },
   {
+    "appid": 768450,
+    "name": "NUTS",
+    "final_price": 280.0,
+    "discount_percent": 90
+  },
+  {
     "appid": 1222680,
     "name": "Need for Speed™ Heat",
     "final_price": 475.0,
@@ -138,12 +144,6 @@
     "discount_percent": 30
   },
   {
-    "appid": 2881650,
-    "name": "Content Warning",
-    "final_price": 570.0,
-    "discount_percent": 38
-  },
-  {
     "appid": 3168600,
     "name": "Among Us 3D",
     "final_price": 660.0,
@@ -208,11 +208,5 @@
     "name": "Cable Management Simulator",
     "final_price": 589.0,
     "discount_percent": 10
-  },
-  {
-    "appid": 768450,
-    "name": "NUTS",
-    "final_price": 280.0,
-    "discount_percent": 90
   }
 ]
