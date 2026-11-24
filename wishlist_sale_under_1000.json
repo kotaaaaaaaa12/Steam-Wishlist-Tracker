@@ -24,6 +24,12 @@
     "discount_percent": 60
   },
   {
+    "appid": 301970,
+    "name": "Screencheat",
+    "final_price": 340.0,
+    "discount_percent": 80
+  },
+  {
     "appid": 320140,
     "name": "Absolute Drift",
     "final_price": 950.0,
@@ -114,16 +120,10 @@
     "discount_percent": 90
   },
   {
-    "appid": 2198800,
-    "name": "CRUMB Circuit Simulator",
-    "final_price": 750.0,
-    "discount_percent": 25
-  },
-  {
-    "appid": 2352050,
-    "name": "SECTOR ZERO",
-    "final_price": 376.0,
-    "discount_percent": 20
+    "appid": 2055410,
+    "name": "The Kindeman Remedy",
+    "final_price": 290.0,
+    "discount_percent": 50
   },
   {
     "appid": 2644470,
@@ -138,6 +138,12 @@
     "discount_percent": 30
   },
   {
+    "appid": 2881650,
+    "name": "Content Warning",
+    "final_price": 570.0,
+    "discount_percent": 38
+  },
+  {
     "appid": 3168600,
     "name": "Among Us 3D",
     "final_price": 660.0,
@@ -147,6 +153,12 @@
     "appid": 3314790,
     "name": "CloverPit",
     "final_price": 840.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 3436030,
+    "name": "IDLE BOSS RUSH",
+    "final_price": 945.0,
     "discount_percent": 30
   },
   {
@@ -162,16 +174,16 @@
     "discount_percent": 20
   },
   {
+    "appid": 3833430,
+    "name": "Red Passport: Ticket to Russia",
+    "final_price": 368.0,
+    "discount_percent": 60
+  },
+  {
     "appid": 3986100,
     "name": "ゲームショップ斜陽",
     "final_price": 966.0,
     "discount_percent": 30
-  },
-  {
-    "appid": 4171850,
-    "name": "Trees Hate You",
-    "final_price": 1000.0,
-    "discount_percent": 13
   },
   {
     "appid": 4255580,
@@ -186,21 +198,21 @@
     "discount_percent": 20
   },
   {
-    "appid": 4832970,
-    "name": "What the Buck?!",
-    "final_price": 633.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 5451260,
-    "name": "Code Market",
-    "final_price": 920.0,
-    "discount_percent": 20
+    "appid": 5052300,
+    "name": "Cloudgazer: A Game About Watching Clouds",
+    "final_price": 260.0,
+    "discount_percent": 34
   },
   {
     "appid": 5318160,
     "name": "Cable Management Simulator",
     "final_price": 589.0,
     "discount_percent": 10
+  },
+  {
+    "appid": 768450,
+    "name": "NUTS",
+    "final_price": 280.0,
+    "discount_percent": 90
   }
 ]
