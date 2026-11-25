@@ -1,11 +1,5 @@
 [
   {
-    "appid": 227300,
-    "name": "Euro Truck Simulator 2",
-    "final_price": 749.0,
-    "discount_percent": 75
-  },
-  {
     "appid": 244710,
     "name": "Shelter",
     "final_price": 510.0,
@@ -84,6 +78,12 @@
     "discount_percent": 78
   },
   {
+    "appid": 1272840,
+    "name": "Dordogne",
+    "final_price": 744.0,
+    "discount_percent": 70
+  },
+  {
     "appid": 1328660,
     "name": "Need for Speed™ Hot Pursuit Remastered",
     "final_price": 465.0,
@@ -142,6 +142,12 @@
     "name": "Restore Your Island",
     "final_price": 910.0,
     "discount_percent": 30
+  },
+  {
+    "appid": 2737070,
+    "name": "Crime Simulator",
+    "final_price": 849.0,
+    "discount_percent": 50
   },
   {
     "appid": 3168600,
