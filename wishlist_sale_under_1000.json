@@ -102,12 +102,6 @@
     "discount_percent": 90
   },
   {
-    "appid": 1509960,
-    "name": "PICO PARK",
-    "final_price": 364.0,
-    "discount_percent": 30
-  },
-  {
     "appid": 1693980,
     "name": "Dead Space",
     "final_price": 870.0,
@@ -129,24 +123,6 @@
     "appid": 2055410,
     "name": "The Kindeman Remedy",
     "final_price": 290.0,
-    "discount_percent": 50
-  },
-  {
-    "appid": 2644470,
-    "name": "PICO PARK 2",
-    "final_price": 686.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 2698420,
-    "name": "Restore Your Island",
-    "final_price": 910.0,
-    "discount_percent": 30
-  },
-  {
-    "appid": 2737070,
-    "name": "Crime Simulator",
-    "final_price": 849.0,
     "discount_percent": 50
   },
   {
