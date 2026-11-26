@@ -1,5 +1,11 @@
 [
   {
+    "appid": 4000,
+    "name": "Garry's Mod",
+    "final_price": 490.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 244710,
     "name": "Shelter",
     "final_price": 510.0,
@@ -84,6 +90,12 @@
     "discount_percent": 70
   },
   {
+    "appid": 1281640,
+    "name": "Medic: Pacific War",
+    "final_price": 750.0,
+    "discount_percent": 25
+  },
+  {
     "appid": 1328660,
     "name": "Need for Speed™ Hot Pursuit Remastered",
     "final_price": 465.0,
@@ -94,12 +106,6 @@
     "name": "Against the Storm アゲインスト・ザ・ストーム",
     "final_price": 596.0,
     "discount_percent": 80
-  },
-  {
-    "appid": 1496590,
-    "name": "Tchia",
-    "final_price": 390.0,
-    "discount_percent": 90
   },
   {
     "appid": 1693980,
@@ -156,6 +162,12 @@
     "discount_percent": 20
   },
   {
+    "appid": 3799100,
+    "name": "SIDE EFFECTS",
+    "final_price": 348.0,
+    "discount_percent": 40
+  },
+  {
     "appid": 3833430,
     "name": "Red Passport: Ticket to Russia",
     "final_price": 368.0,
@@ -165,6 +177,12 @@
     "appid": 3986100,
     "name": "ゲームショップ斜陽",
     "final_price": 966.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 4197890,
+    "name": "The Last Cat in the Universe",
+    "final_price": 633.0,
     "discount_percent": 30
   },
   {
