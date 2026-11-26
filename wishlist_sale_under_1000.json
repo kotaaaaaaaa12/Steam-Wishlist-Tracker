@@ -132,6 +132,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 2698420,
+    "name": "Restore Your Island",
+    "final_price": 910.0,
+    "discount_percent": 30
+  },
+  {
     "appid": 3168600,
     "name": "Among Us 3D",
     "final_price": 660.0,
@@ -190,6 +196,12 @@
     "name": "Mouse X",
     "final_price": 312.0,
     "discount_percent": 20
+  },
+  {
+    "appid": 4635290,
+    "name": "Grave Mistakes 〜幽々しき事態〜",
+    "final_price": 885.0,
+    "discount_percent": 25
   },
   {
     "appid": 4754740,
