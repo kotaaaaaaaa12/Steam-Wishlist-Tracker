@@ -108,6 +108,12 @@
     "discount_percent": 80
   },
   {
+    "appid": 1509510,
+    "name": "Settlement Survival",
+    "final_price": 575.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 1693980,
     "name": "Dead Space",
     "final_price": 870.0,
@@ -126,16 +132,16 @@
     "discount_percent": 90
   },
   {
+    "appid": 1999360,
+    "name": "Placid Plastic Duck Simulator",
+    "final_price": 155.0,
+    "discount_percent": 50
+  },
+  {
     "appid": 2055410,
     "name": "The Kindeman Remedy",
     "final_price": 290.0,
     "discount_percent": 50
-  },
-  {
-    "appid": 2698420,
-    "name": "Restore Your Island",
-    "final_price": 910.0,
-    "discount_percent": 30
   },
   {
     "appid": 3168600,
@@ -162,10 +168,10 @@
     "discount_percent": 20
   },
   {
-    "appid": 3547270,
-    "name": "Worming from Home",
-    "final_price": 840.0,
-    "discount_percent": 20
+    "appid": 3784030,
+    "name": "RACCOIN: Coin Pusher Roguelike",
+    "final_price": 910.0,
+    "discount_percent": 30
   },
   {
     "appid": 3799100,
