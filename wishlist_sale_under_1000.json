@@ -6,6 +6,12 @@
     "discount_percent": 50
   },
   {
+    "appid": 107410,
+    "name": "Arma 3",
+    "final_price": 950.0,
+    "discount_percent": 75
+  },
+  {
     "appid": 244710,
     "name": "Shelter",
     "final_price": 510.0,
