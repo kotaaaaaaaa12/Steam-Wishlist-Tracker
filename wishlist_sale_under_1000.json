@@ -156,10 +156,22 @@
     "discount_percent": 50
   },
   {
-    "appid": 3168600,
-    "name": "Among Us 3D",
-    "final_price": 660.0,
-    "discount_percent": 40
+    "appid": 2698420,
+    "name": "Restore Your Island",
+    "final_price": 910.0,
+    "discount_percent": 30
+  },
+  {
+    "appid": 2708450,
+    "name": "Oh Deer",
+    "final_price": 572.0,
+    "discount_percent": 35
+  },
+  {
+    "appid": 2737070,
+    "name": "Crime Simulator",
+    "final_price": 849.0,
+    "discount_percent": 50
   },
   {
     "appid": 3314790,
